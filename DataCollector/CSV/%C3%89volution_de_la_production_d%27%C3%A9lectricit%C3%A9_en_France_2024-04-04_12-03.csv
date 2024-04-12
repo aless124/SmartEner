@@ -1,0 +1,2458 @@
+﻿Date;Filière;Valeur (TWh)
+1995-01;"Nucléaire";36,909
+1995-02;"Nucléaire";30,157
+1995-03;"Nucléaire";32,737
+1995-04;"Nucléaire";29,125
+1995-05;"Nucléaire";26,749
+1995-06;"Nucléaire";25,495
+1995-07;"Nucléaire";26,685
+1995-08;"Nucléaire";27,486
+1995-09;"Nucléaire";26,508
+1995-10;"Nucléaire";29,582
+1995-11;"Nucléaire";32,815
+1995-12;"Nucléaire";34,531
+1996-01;"Nucléaire";36,782
+1996-02;"Nucléaire";34,024
+1996-03;"Nucléaire";34,341
+1996-04;"Nucléaire";31,693
+1996-05;"Nucléaire";28,81
+1996-06;"Nucléaire";26,22
+1996-07;"Nucléaire";28,556
+1996-08;"Nucléaire";28,291
+1996-09;"Nucléaire";29,29
+1996-10;"Nucléaire";32,395
+1996-11;"Nucléaire";33,218
+1996-12;"Nucléaire";34,605
+1997-01;"Nucléaire";35,313
+1997-02;"Nucléaire";31,136
+1997-03;"Nucléaire";32,66
+1997-04;"Nucléaire";33,205
+1997-05;"Nucléaire";29,722
+1997-06;"Nucléaire";27,728
+1997-07;"Nucléaire";28,69
+1997-08;"Nucléaire";27,994
+1997-09;"Nucléaire";28,908
+1997-10;"Nucléaire";32,644
+1997-11;"Nucléaire";33,259
+1997-12;"Nucléaire";34,676
+1998-01;"Nucléaire";36,954
+1998-02;"Nucléaire";33,565
+1998-03;"Nucléaire";34,315
+1998-04;"Nucléaire";29,984
+1998-05;"Nucléaire";28,369
+1998-06;"Nucléaire";27,214
+1998-07;"Nucléaire";27,803
+1998-08;"Nucléaire";24,47
+1998-09;"Nucléaire";27,45
+1998-10;"Nucléaire";31,551
+1998-11;"Nucléaire";32,598
+1998-12;"Nucléaire";34,227
+1999-01;"Nucléaire";36,266
+1999-02;"Nucléaire";32,072
+1999-03;"Nucléaire";32,785
+1999-04;"Nucléaire";31,826
+1999-05;"Nucléaire";26,807
+1999-06;"Nucléaire";27,098
+1999-07;"Nucléaire";29,901
+1999-08;"Nucléaire";28,715
+1999-09;"Nucléaire";29,687
+1999-10;"Nucléaire";32,075
+1999-11;"Nucléaire";32,92
+1999-12;"Nucléaire";34,762
+2000-01;"Nucléaire";36,298
+2000-02;"Nucléaire";33,699
+2000-03;"Nucléaire";35,869
+2000-04;"Nucléaire";32,216
+2000-05;"Nucléaire";30,667
+2000-06;"Nucléaire";29,45
+2000-07;"Nucléaire";31,112
+2000-08;"Nucléaire";30,301
+2000-09;"Nucléaire";31,039
+2000-10;"Nucléaire";33,379
+2000-11;"Nucléaire";34,639
+2000-12;"Nucléaire";36,531
+2001-01;"Nucléaire";38,723
+2001-02;"Nucléaire";33,166
+2001-03;"Nucléaire";33,605
+2001-04;"Nucléaire";31,417
+2001-05;"Nucléaire";28,757
+2001-06;"Nucléaire";28,39
+2001-07;"Nucléaire";31,032
+2001-08;"Nucléaire";30,607
+2001-09;"Nucléaire";32,756
+2001-10;"Nucléaire";35,628
+2001-11;"Nucléaire";37,051
+2001-12;"Nucléaire";38,453
+2002-01;"Nucléaire";40,003
+2002-02;"Nucléaire";34,316
+2002-03;"Nucléaire";35,481
+2002-04;"Nucléaire";35,513
+2002-05;"Nucléaire";33,522
+2002-06;"Nucléaire";31,07
+2002-07;"Nucléaire";32,89
+2002-08;"Nucléaire";30,347
+2002-09;"Nucléaire";32,104
+2002-10;"Nucléaire";35,087
+2002-11;"Nucléaire";36,195
+2002-12;"Nucléaire";38,987
+2003-01;"Nucléaire";40,335
+2003-02;"Nucléaire";36,454
+2003-03;"Nucléaire";35,837
+2003-04;"Nucléaire";34,449
+2003-05;"Nucléaire";32,444
+2003-06;"Nucléaire";30,969
+2003-07;"Nucléaire";33,132
+2003-08;"Nucléaire";29,972
+2003-09;"Nucléaire";31,437
+2003-10;"Nucléaire";35,451
+2003-11;"Nucléaire";37,666
+2003-12;"Nucléaire";41,668
+2004-01;"Nucléaire";41,764
+2004-02;"Nucléaire";36,195
+2004-03;"Nucléaire";36,113
+2004-04;"Nucléaire";33,943
+2004-05;"Nucléaire";32,039
+2004-06;"Nucléaire";30,499
+2004-07;"Nucléaire";32,408
+2004-08;"Nucléaire";30,449
+2004-09;"Nucléaire";33,064
+2004-10;"Nucléaire";37,584
+2004-11;"Nucléaire";39,283
+2004-12;"Nucléaire";43,542
+2005-01;"Nucléaire";42,475
+2005-02;"Nucléaire";36,432
+2005-03;"Nucléaire";36,777
+2005-04;"Nucléaire";33,286
+2005-05;"Nucléaire";33,345
+2005-06;"Nucléaire";32,849
+2005-07;"Nucléaire";32,109
+2005-08;"Nucléaire";33,132
+2005-09;"Nucléaire";33,41
+2005-10;"Nucléaire";35,715
+2005-11;"Nucléaire";38,395
+2005-12;"Nucléaire";42,053
+2006-01;"Nucléaire";42,768
+2006-02;"Nucléaire";35,118
+2006-03;"Nucléaire";35,324
+2006-04;"Nucléaire";35,88
+2006-05;"Nucléaire";33,949
+2006-06;"Nucléaire";32,834
+2006-07;"Nucléaire";32,9
+2006-08;"Nucléaire";32,698
+2006-09;"Nucléaire";33,831
+2006-10;"Nucléaire";35,706
+2006-11;"Nucléaire";37,249
+2006-12;"Nucléaire";40,408
+2007-01;"Nucléaire";40,872
+2007-02;"Nucléaire";36,169
+2007-03;"Nucléaire";36,738
+2007-04;"Nucléaire";31,721
+2007-05;"Nucléaire";31,803
+2007-06;"Nucléaire";30,865
+2007-07;"Nucléaire";31,819
+2007-08;"Nucléaire";32,611
+2007-09;"Nucléaire";33,301
+2007-10;"Nucléaire";36,896
+2007-11;"Nucléaire";35,806
+2007-12;"Nucléaire";40,008
+2008-01;"Nucléaire";40,922
+2008-02;"Nucléaire";38,9
+2008-03;"Nucléaire";37,203
+2008-04;"Nucléaire";34,294
+2008-05;"Nucléaire";31,972
+2008-06;"Nucléaire";28,517
+2008-07;"Nucléaire";31,835
+2008-08;"Nucléaire";32,025
+2008-09;"Nucléaire";31,239
+2008-10;"Nucléaire";33,949
+2008-11;"Nucléaire";36,113
+2008-12;"Nucléaire";41,309
+2009-01;"Nucléaire";43,093
+2009-02;"Nucléaire";37,051
+2009-03;"Nucléaire";35,932
+2009-04;"Nucléaire";30,862
+2009-05;"Nucléaire";29,883
+2009-06;"Nucléaire";27,129
+2009-07;"Nucléaire";28,9
+2009-08;"Nucléaire";28,228
+2009-09;"Nucléaire";28,68
+2009-10;"Nucléaire";30,932
+2009-11;"Nucléaire";31,461
+2009-12;"Nucléaire";37,847
+2010-01;"Nucléaire";40,313
+2010-02;"Nucléaire";36,316
+2010-03;"Nucléaire";35,984
+2010-04;"Nucléaire";31,294
+2010-05;"Nucléaire";29,372
+2010-06;"Nucléaire";29,575
+2010-07;"Nucléaire";31,744
+2010-08;"Nucléaire";32,391
+2010-09;"Nucléaire";31,657
+2010-10;"Nucléaire";31,885
+2010-11;"Nucléaire";35,455
+2010-12;"Nucléaire";41,889
+2011-01;"Nucléaire";43,853
+2011-02;"Nucléaire";38,328
+2011-03;"Nucléaire";37,688
+2011-04;"Nucléaire";32,85
+2011-05;"Nucléaire";33,07
+2011-06;"Nucléaire";32,589
+2011-07;"Nucléaire";33,487
+2011-08;"Nucléaire";31,383
+2011-09;"Nucléaire";31,477
+2011-10;"Nucléaire";32,824
+2011-11;"Nucléaire";33,705
+2011-12;"Nucléaire";39,864
+2012-01;"Nucléaire";42,811
+2012-02;"Nucléaire";38,661
+2012-03;"Nucléaire";37,549
+2012-04;"Nucléaire";33,1
+2012-05;"Nucléaire";29,058
+2012-06;"Nucléaire";26,562
+2012-07;"Nucléaire";28,818
+2012-08;"Nucléaire";28,314
+2012-09;"Nucléaire";30,13
+2012-10;"Nucléaire";32,848
+2012-11;"Nucléaire";37,119
+2012-12;"Nucléaire";39,912
+2013-01;"Nucléaire";42,406
+2013-02;"Nucléaire";36,754
+2013-03;"Nucléaire";36,786
+2013-04;"Nucléaire";31,498
+2013-05;"Nucléaire";31,172
+2013-06;"Nucléaire";28,62
+2013-07;"Nucléaire";30,695
+2013-08;"Nucléaire";29,908
+2013-09;"Nucléaire";29,759
+2013-10;"Nucléaire";31,105
+2013-11;"Nucléaire";34,631
+2013-12;"Nucléaire";40,423
+2014-01;"Nucléaire";42,697272529
+2014-02;"Nucléaire";36,396235447
+2014-03;"Nucléaire";35,796054646
+2014-04;"Nucléaire";31,206547209
+2014-05;"Nucléaire";31,710544312
+2014-06;"Nucléaire";30,991109222
+2014-07;"Nucléaire";33,390878366
+2014-08;"Nucléaire";30,98214339
+2014-09;"Nucléaire";31,938587067
+2014-10;"Nucléaire";32,797760455
+2014-11;"Nucléaire";36,286603252
+2014-12;"Nucléaire";41,63302429
+2015-01;"Nucléaire";43,791488657
+2015-02;"Nucléaire";37,482320665
+2015-03;"Nucléaire";36,914547292
+2015-04;"Nucléaire";31,186698518
+2015-05;"Nucléaire";30,328966017
+2015-06;"Nucléaire";30,717391599
+2015-07;"Nucléaire";33,268760518
+2015-08;"Nucléaire";31,992992083
+2015-09;"Nucléaire";30,632457517
+2015-10;"Nucléaire";34,485949151
+2015-11;"Nucléaire";35,678647455
+2015-12;"Nucléaire";40,291619544
+2016-01;"Nucléaire";41,588497132
+2016-02;"Nucléaire";37,323009399
+2016-03;"Nucléaire";37,177149961
+2016-04;"Nucléaire";31,057041779
+2016-05;"Nucléaire";29,4393355
+2016-06;"Nucléaire";28,639486961
+2016-07;"Nucléaire";28,342361051
+2016-08;"Nucléaire";27,113130645
+2016-09;"Nucléaire";26,478460131
+2016-10;"Nucléaire";29,019544167
+2016-11;"Nucléaire";31,148968325
+2016-12;"Nucléaire";36,648669139
+2017-01;"Nucléaire";40,491546163667
+2017-02;"Nucléaire";33,689348332999
+2017-03;"Nucléaire";34,272584850666
+2017-04;"Nucléaire";31,752167625837
+2017-05;"Nucléaire";30,136479560664
+2017-06;"Nucléaire";26,881570487665
+2017-07;"Nucléaire";28,158949644167
+2017-08;"Nucléaire";28,585312193166
+2017-09;"Nucléaire";29,345826152166
+2017-10;"Nucléaire";28,053906030166
+2017-11;"Nucléaire";30,334659935334
+2017-12;"Nucléaire";37,382680159334
+2018-01;"Nucléaire";40,792988055835
+2018-02;"Nucléaire";36,409552789833
+2018-03;"Nucléaire";35,678215544833
+2018-04;"Nucléaire";30,592859141335
+2018-05;"Nucléaire";30,581938587499
+2018-06;"Nucléaire";28,624022986332
+2018-07;"Nucléaire";29,958812298334
+2018-08;"Nucléaire";27,294682993332
+2018-09;"Nucléaire";30,098993516666
+2018-10;"Nucléaire";31,613910839835
+2018-11;"Nucléaire";32,658276813835
+2018-12;"Nucléaire";38,890266086336
+2019-01;"Nucléaire";40,157955925498
+2019-02;"Nucléaire";36,089868409333
+2019-03;"Nucléaire";35,497659047164
+2019-04;"Nucléaire";31,756632938166
+2019-05;"Nucléaire";31,668783221834
+2019-06;"Nucléaire";28,560142913833
+2019-07;"Nucléaire";29,194282207
+2019-08;"Nucléaire";27,721121022336
+2019-09;"Nucléaire";27,533421486166
+2019-10;"Nucléaire";29,162874816835
+2019-11;"Nucléaire";29,133620008001
+2019-12;"Nucléaire";32,985749514833
+2020-01;"Nucléaire";37,352402387335
+2020-02;"Nucléaire";33,178534617999
+2020-03;"Nucléaire";30,624812352833
+2020-04;"Nucléaire";26,823503685165
+2020-05;"Nucléaire";24,714613243335
+2020-06;"Nucléaire";21,334927722834
+2020-07;"Nucléaire";22,499430358665
+2020-08;"Nucléaire";22,876502343833
+2020-09;"Nucléaire";21,739624139499
+2020-10;"Nucléaire";28,271624456833
+2020-11;"Nucléaire";31,565610909489
+2020-12;"Nucléaire";34,432370352228
+2021-01;"Nucléaire";37,175143319168
+2021-02;"Nucléaire";30,3371484415
+2021-03;"Nucléaire";31,694793340835
+2021-04;"Nucléaire";27,208831891504
+2021-05;"Nucléaire";27,573972981664
+2021-06;"Nucléaire";27,714204401833
+2021-07;"Nucléaire";28,449016341997
+2021-08;"Nucléaire";29,010562501168
+2021-09;"Nucléaire";29,001127703837
+2021-10;"Nucléaire";30,657033306334
+2021-11;"Nucléaire";30,370324262001
+2021-12;"Nucléaire";31,50228564517
+2022-01;"Nucléaire";35,219864213334
+2022-02;"Nucléaire";29,577611468335
+2022-03;"Nucléaire";26,851697452831
+2022-04;"Nucléaire";21,765642987836
+2022-05;"Nucléaire";20,529498721993
+2022-06;"Nucléaire";20,17482027178
+2022-07;"Nucléaire";18,780955418368
+2022-08;"Nucléaire";18,133046551453
+2022-09;"Nucléaire";18,190495550696
+2022-10;"Nucléaire";20,224827015238
+2022-11;"Nucléaire";21,597263652954
+2022-12;"Nucléaire";27,912368646209
+2023-01;"Nucléaire";30,770802043993
+2023-02;"Nucléaire";28,786862810671
+2023-03;"Nucléaire";25,637451082995
+2023-04;"Nucléaire";24,990759670505
+2023-05;"Nucléaire";25,177700359665
+2023-06;"Nucléaire";22,724848177331
+2023-07;"Nucléaire";24,064828688656
+2023-08;"Nucléaire";23,945608370675
+2023-09;"Nucléaire";26,942037019678
+2023-10;"Nucléaire";28,251279104675
+2023-11;"Nucléaire";27,580344227837
+2023-12;"Nucléaire";31,531482358595
+2024-01;"Nucléaire";35,926897228687
+2024-02;"Nucléaire";30,733478205265
+2024-03;"Nucléaire";29,816561
+1995-01;"Hydraulique";7,716
+1995-02;"Hydraulique";7,403
+1995-03;"Hydraulique";8,33
+1995-04;"Hydraulique";6,564
+1995-05;"Hydraulique";7,624
+1995-06;"Hydraulique";7,101
+1995-07;"Hydraulique";6,325
+1995-08;"Hydraulique";4,538
+1995-09;"Hydraulique";5,324
+1995-10;"Hydraulique";4,69
+1995-11;"Hydraulique";4,484
+1995-12;"Hydraulique";5,691
+1996-01;"Hydraulique";7,083
+1996-02;"Hydraulique";6,652
+1996-03;"Hydraulique";5,788
+1996-04;"Hydraulique";4,849
+1996-05;"Hydraulique";6,481
+1996-06;"Hydraulique";6,173
+1996-07;"Hydraulique";5,423
+1996-08;"Hydraulique";4,398
+1996-09;"Hydraulique";4,16
+1996-10;"Hydraulique";4,534
+1996-11;"Hydraulique";6,017
+1996-12;"Hydraulique";8,375
+1997-01;"Hydraulique";7,622
+1997-02;"Hydraulique";5,982
+1997-03;"Hydraulique";5,32
+1997-04;"Hydraulique";4,461
+1997-05;"Hydraulique";5,75
+1997-06;"Hydraulique";5,946
+1997-07;"Hydraulique";6,626
+1997-08;"Hydraulique";5,045
+1997-09;"Hydraulique";4,564
+1997-10;"Hydraulique";4,48
+1997-11;"Hydraulique";4,919
+1997-12;"Hydraulique";6,512
+1998-01;"Hydraulique";6,864
+1998-02;"Hydraulique";5,133
+1998-03;"Hydraulique";5,152
+1998-04;"Hydraulique";6,204
+1998-05;"Hydraulique";6,425
+1998-06;"Hydraulique";6,259
+1998-07;"Hydraulique";4,333
+1998-08;"Hydraulique";3,404
+1998-09;"Hydraulique";4,024
+1998-10;"Hydraulique";6,085
+1998-11;"Hydraulique";6,365
+1998-12;"Hydraulique";5,547
+1999-01;"Hydraulique";5,242
+1999-02;"Hydraulique";6,281
+1999-03;"Hydraulique";6,894
+1999-04;"Hydraulique";6,589
+1999-05;"Hydraulique";8,47
+1999-06;"Hydraulique";7,103
+1999-07;"Hydraulique";5,762
+1999-08;"Hydraulique";4,966
+1999-09;"Hydraulique";4,985
+1999-10;"Hydraulique";6,307
+1999-11;"Hydraulique";6,719
+1999-12;"Hydraulique";7,376
+2000-01;"Hydraulique";5,738
+2000-02;"Hydraulique";5,61
+2000-03;"Hydraulique";6,087
+2000-04;"Hydraulique";6,201
+2000-05;"Hydraulique";7,575
+2000-06;"Hydraulique";6,252
+2000-07;"Hydraulique";5,072
+2000-08;"Hydraulique";4,702
+2000-09;"Hydraulique";4,584
+2000-10;"Hydraulique";5,593
+2000-11;"Hydraulique";7,352
+2000-12;"Hydraulique";6,827
+2001-01;"Hydraulique";7,678
+2001-02;"Hydraulique";6,641
+2001-03;"Hydraulique";8,341
+2001-04;"Hydraulique";8,642
+2001-05;"Hydraulique";8,687
+2001-06;"Hydraulique";7,086
+2001-07;"Hydraulique";6,585
+2001-08;"Hydraulique";4,884
+2001-09;"Hydraulique";4,53
+2001-10;"Hydraulique";4,93
+2001-11;"Hydraulique";4,506
+2001-12;"Hydraulique";4,8
+2002-01;"Hydraulique";4,423
+2002-02;"Hydraulique";4,222
+2002-03;"Hydraulique";5,739
+2002-04;"Hydraulique";4,293
+2002-05;"Hydraulique";6,069
+2002-06;"Hydraulique";6,23
+2002-07;"Hydraulique";4,82
+2002-08;"Hydraulique";4,775
+2002-09;"Hydraulique";4,765
+2002-10;"Hydraulique";5,624
+2002-11;"Hydraulique";6,799
+2002-12;"Hydraulique";7,694
+2003-01;"Hydraulique";8,451
+2003-02;"Hydraulique";7,303
+2003-03;"Hydraulique";6,424
+2003-04;"Hydraulique";5,001
+2003-05;"Hydraulique";5,743
+2003-06;"Hydraulique";5,384
+2003-07;"Hydraulique";3,957
+2003-08;"Hydraulique";3,699
+2003-09;"Hydraulique";3,429
+2003-10;"Hydraulique";4,832
+2003-11;"Hydraulique";4,539
+2003-12;"Hydraulique";5,565
+2004-01;"Hydraulique";7,034
+2004-02;"Hydraulique";6,317
+2004-03;"Hydraulique";6,625
+2004-04;"Hydraulique";5,546
+2004-05;"Hydraulique";6,548
+2004-06;"Hydraulique";6,087
+2004-07;"Hydraulique";4,838
+2004-08;"Hydraulique";4,273
+2004-09;"Hydraulique";3,858
+2004-10;"Hydraulique";4,171
+2004-11;"Hydraulique";4,341
+2004-12;"Hydraulique";4,733
+2005-01;"Hydraulique";5,022
+2005-02;"Hydraulique";5,366
+2005-03;"Hydraulique";5,078
+2005-04;"Hydraulique";6,012
+2005-05;"Hydraulique";6,212
+2005-06;"Hydraulique";4,956
+2005-07;"Hydraulique";4,111
+2005-08;"Hydraulique";3,633
+2005-09;"Hydraulique";3,861
+2005-10;"Hydraulique";3,752
+2005-11;"Hydraulique";3,863
+2005-12;"Hydraulique";4,313
+2006-01;"Hydraulique";4,21
+2006-02;"Hydraulique";4,574
+2006-03;"Hydraulique";6,548
+2006-04;"Hydraulique";6,968
+2006-05;"Hydraulique";6,719
+2006-06;"Hydraulique";5,092
+2006-07;"Hydraulique";4,386
+2006-08;"Hydraulique";3,954
+2006-09;"Hydraulique";4,298
+2006-10;"Hydraulique";4,994
+2006-11;"Hydraulique";4,084
+2006-12;"Hydraulique";5,16
+2007-01;"Hydraulique";5,366
+2007-02;"Hydraulique";5,535
+2007-03;"Hydraulique";6,759
+2007-04;"Hydraulique";5,331
+2007-05;"Hydraulique";6,046
+2007-06;"Hydraulique";7,209
+2007-07;"Hydraulique";6,147
+2007-08;"Hydraulique";5,077
+2007-09;"Hydraulique";3,968
+2007-10;"Hydraulique";3,898
+2007-11;"Hydraulique";3,351
+2007-12;"Hydraulique";4,591
+2008-01;"Hydraulique";6,038
+2008-02;"Hydraulique";4,419
+2008-03;"Hydraulique";5,528
+2008-04;"Hydraulique";6,986
+2008-05;"Hydraulique";7,168
+2008-06;"Hydraulique";8,313
+2008-07;"Hydraulique";5,981
+2008-08;"Hydraulique";4,248
+2008-09;"Hydraulique";4,832
+2008-10;"Hydraulique";3,749
+2008-11;"Hydraulique";5,101
+2008-12;"Hydraulique";5,633
+2009-01;"Hydraulique";6,08
+2009-02;"Hydraulique";5,79
+2009-03;"Hydraulique";6,208
+2009-04;"Hydraulique";6,593
+2009-05;"Hydraulique";7,057
+2009-06;"Hydraulique";6,312
+2009-07;"Hydraulique";4,872
+2009-08;"Hydraulique";3,867
+2009-09;"Hydraulique";2,977
+2009-10;"Hydraulique";3,069
+2009-11;"Hydraulique";3,79
+2009-12;"Hydraulique";5,269
+2010-01;"Hydraulique";6,307
+2010-02;"Hydraulique";5,887
+2010-03;"Hydraulique";6,204
+2010-04;"Hydraulique";5,684
+2010-05;"Hydraulique";6,428
+2010-06;"Hydraulique";7,263
+2010-07;"Hydraulique";5,41
+2010-08;"Hydraulique";4,348
+2010-09;"Hydraulique";3,594
+2010-10;"Hydraulique";4,023
+2010-11;"Hydraulique";5,466
+2010-12;"Hydraulique";6,985
+2011-01;"Hydraulique";5,981
+2011-02;"Hydraulique";4,113
+2011-03;"Hydraulique";4,431
+2011-04;"Hydraulique";3,998
+2011-05;"Hydraulique";3,372
+2011-06;"Hydraulique";4,27
+2011-07;"Hydraulique";4,174
+2011-08;"Hydraulique";3,872
+2011-09;"Hydraulique";3,219
+2011-10;"Hydraulique";3,257
+2011-11;"Hydraulique";3,937
+2011-12;"Hydraulique";5,646
+2012-01;"Hydraulique";6,741
+2012-02;"Hydraulique";5,243
+2012-03;"Hydraulique";3,895
+2012-04;"Hydraulique";5,302
+2012-05;"Hydraulique";7,707
+2012-06;"Hydraulique";6,823
+2012-07;"Hydraulique";4,901
+2012-08;"Hydraulique";3,563
+2012-09;"Hydraulique";3,641
+2012-10;"Hydraulique";4,534
+2012-11;"Hydraulique";4,914
+2012-12;"Hydraulique";6,521
+2013-01;"Hydraulique";6,905658338
+2013-02;"Hydraulique";6,857306401
+2013-03;"Hydraulique";6,488119386
+2013-04;"Hydraulique";7,241331608
+2013-05;"Hydraulique";8,607657303
+2013-06;"Hydraulique";7,374165357
+2013-07;"Hydraulique";6,40682022
+2013-08;"Hydraulique";4,551087074
+2013-09;"Hydraulique";4,12534711
+2013-10;"Hydraulique";4,854995302
+2013-11;"Hydraulique";6,364422227
+2013-12;"Hydraulique";5,689341189
+2014-01;"Hydraulique";7,029323008149
+2014-02;"Hydraulique";7,059827809879
+2014-03;"Hydraulique";6,978205372953
+2014-04;"Hydraulique";5,780052442885
+2014-05;"Hydraulique";6,12894251903
+2014-06;"Hydraulique";4,95684040923
+2014-07;"Hydraulique";6,127714594928
+2014-08;"Hydraulique";5,272236617718
+2014-09;"Hydraulique";3,733771294195
+2014-10;"Hydraulique";3,757241677861
+2014-11;"Hydraulique";4,853922862583
+2014-12;"Hydraulique";5,729297941677
+2015-01;"Hydraulique";6,203325909086
+2015-02;"Hydraulique";6,37459913683
+2015-03;"Hydraulique";6,48054917573
+2015-04;"Hydraulique";5,728845518074
+2015-05;"Hydraulique";6,452224739027
+2015-06;"Hydraulique";5,589550626116
+2015-07;"Hydraulique";4,008137396214
+2015-08;"Hydraulique";3,410344413179
+2015-09;"Hydraulique";3,421187415226
+2015-10;"Hydraulique";3,873896782054
+2015-11;"Hydraulique";3,549972483167
+2015-12;"Hydraulique";3,65731752731
+2016-01;"Hydraulique";5,676766360289
+2016-02;"Hydraulique";6,939796393086
+2016-03;"Hydraulique";6,599527576506
+2016-04;"Hydraulique";6,461725236334
+2016-05;"Hydraulique";6,533701775742
+2016-06;"Hydraulique";7,157149687661
+2016-07;"Hydraulique";5,275702402381
+2016-08;"Hydraulique";3,854307190741
+2016-09;"Hydraulique";3,364324384516
+2016-10;"Hydraulique";3,056593952634
+2016-11;"Hydraulique";4,23961439697
+2016-12;"Hydraulique";4,474004969333
+2017-01;"Hydraulique";5,191719696343
+2017-02;"Hydraulique";4,534442967936
+2017-03;"Hydraulique";6,231795510201
+2017-04;"Hydraulique";4,145625216537
+2017-05;"Hydraulique";5,683113589937
+2017-06;"Hydraulique";5,054164756831
+2017-07;"Hydraulique";3,861177626576
+2017-08;"Hydraulique";3,472256650715
+2017-09;"Hydraulique";3,072882835701
+2017-10;"Hydraulique";2,717978475526
+2017-11;"Hydraulique";3,915132089738
+2017-12;"Hydraulique";5,301964507466
+2018-01;"Hydraulique";7,285367197789
+2018-02;"Hydraulique";7,147797567027
+2018-03;"Hydraulique";7,09298239145
+2018-04;"Hydraulique";6,930896618128
+2018-05;"Hydraulique";7,675226314774
+2018-06;"Hydraulique";7,537407624955
+2018-07;"Hydraulique";5,253022113393
+2018-08;"Hydraulique";3,875767804431
+2018-09;"Hydraulique";3,019011347883
+2018-10;"Hydraulique";2,914919133107
+2018-11;"Hydraulique";3,955858371698
+2018-12;"Hydraulique";5,149262504044
+2019-01;"Hydraulique";4,962953769328
+2019-02;"Hydraulique";5,029546301521
+2019-03;"Hydraulique";5,143913143238
+2019-04;"Hydraulique";4,483759643048
+2019-05;"Hydraulique";5,531757845597
+2019-06;"Hydraulique";5,740066522405
+2019-07;"Hydraulique";4,371851202491
+2019-08;"Hydraulique";3,735866043564
+2019-09;"Hydraulique";2,561920904923
+2019-10;"Hydraulique";3,772552731541
+2019-11;"Hydraulique";6,447940130196
+2019-12;"Hydraulique";7,826269989
+2020-01;"Hydraulique";6,302382244826
+2020-02;"Hydraulique";6,273842814347
+2020-03;"Hydraulique";7,323235082196
+2020-04;"Hydraulique";5,063186619788
+2020-05;"Hydraulique";6,667888615708
+2020-06;"Hydraulique";6,345899740482
+2020-07;"Hydraulique";4,589093698161
+2020-08;"Hydraulique";3,675631095972
+2020-09;"Hydraulique";3,347557737861
+2020-10;"Hydraulique";5,138152159794
+2020-11;"Hydraulique";4,497559968928
+2020-12;"Hydraulique";5,740024508428
+2021-01;"Hydraulique";7,27203885067
+2021-02;"Hydraulique";6,849273932344
+2021-03;"Hydraulique";5,883434144176
+2021-04;"Hydraulique";3,977240225448
+2021-05;"Hydraulique";6,221639855175
+2021-06;"Hydraulique";6,18606300256
+2021-07;"Hydraulique";5,575264255813
+2021-08;"Hydraulique";4,383012663102
+2021-09;"Hydraulique";3,394649736098
+2021-10;"Hydraulique";2,999912459027
+2021-11;"Hydraulique";3,975353129088
+2021-12;"Hydraulique";5,29286161859
+2022-01;"Hydraulique";5,873801341456
+2022-02;"Hydraulique";4,374879157346
+2022-03;"Hydraulique";4,557038735393
+2022-04;"Hydraulique";5,059743875927
+2022-05;"Hydraulique";5,023937280174
+2022-06;"Hydraulique";4,005613927425
+2022-07;"Hydraulique";3,464144692013
+2022-08;"Hydraulique";2,689641331852
+2022-09;"Hydraulique";2,444186690635
+2022-10;"Hydraulique";3,038516135611
+2022-11;"Hydraulique";3,893272437885
+2022-12;"Hydraulique";5,190848047987
+2023-01;"Hydraulique";6,373351699913
+2023-02;"Hydraulique";3,592434164688
+2023-03;"Hydraulique";4,633044313036
+2023-04;"Hydraulique";4,591279524892
+2023-05;"Hydraulique";5,401702000824
+2023-06;"Hydraulique";5,779367010606
+2023-07;"Hydraulique";3,995893787367
+2023-08;"Hydraulique";3,588023688339
+2023-09;"Hydraulique";3,188247965332
+2023-10;"Hydraulique";3,589659521458
+2023-11;"Hydraulique";6,671409673132
+2023-12;"Hydraulique";7,420682356056
+2024-01;"Hydraulique";7,839258071532
+2024-02;"Hydraulique";6,360860988709
+2024-03;"Hydraulique";7,1700815
+1995-01;"Thermique fossile";3,697
+1995-02;"Thermique fossile";1,931
+1995-03;"Thermique fossile";3,339
+1995-04;"Thermique fossile";2,711
+1995-05;"Thermique fossile";2,152
+1995-06;"Thermique fossile";2,675
+1995-07;"Thermique fossile";2,972
+1995-08;"Thermique fossile";2,181
+1995-09;"Thermique fossile";3,622
+1995-10;"Thermique fossile";3,081
+1995-11;"Thermique fossile";4,51
+1995-12;"Thermique fossile";3,931
+1996-01;"Thermique fossile";3,889
+1996-02;"Thermique fossile";5,196
+1996-03;"Thermique fossile";4,465
+1996-04;"Thermique fossile";3,036
+1996-05;"Thermique fossile";2,443
+1996-06;"Thermique fossile";2,818
+1996-07;"Thermique fossile";2,685
+1996-08;"Thermique fossile";1,105
+1996-09;"Thermique fossile";2,798
+1996-10;"Thermique fossile";3,908
+1996-11;"Thermique fossile";4,327
+1996-12;"Thermique fossile";5,011
+1997-01;"Thermique fossile";6,65
+1997-02;"Thermique fossile";4,244
+1997-03;"Thermique fossile";2,296
+1997-04;"Thermique fossile";2,173
+1997-05;"Thermique fossile";1,47
+1997-06;"Thermique fossile";1,933
+1997-07;"Thermique fossile";1,51
+1997-08;"Thermique fossile";1,586
+1997-09;"Thermique fossile";2,492
+1997-10;"Thermique fossile";3,999
+1997-11;"Thermique fossile";4,311
+1997-12;"Thermique fossile";5,117
+1998-01;"Thermique fossile";4,842
+1998-02;"Thermique fossile";4,421
+1998-03;"Thermique fossile";5,349
+1998-04;"Thermique fossile";5,34
+1998-05;"Thermique fossile";3,011
+1998-06;"Thermique fossile";2,955
+1998-07;"Thermique fossile";3,845
+1998-08;"Thermique fossile";2,868
+1998-09;"Thermique fossile";3,128
+1998-10;"Thermique fossile";3,36
+1998-11;"Thermique fossile";5,7
+1998-12;"Thermique fossile";7,841
+1999-01;"Thermique fossile";5,953
+1999-02;"Thermique fossile";6,197
+1999-03;"Thermique fossile";4,792
+1999-04;"Thermique fossile";3,035
+1999-05;"Thermique fossile";1,965
+1999-06;"Thermique fossile";2,324
+1999-07;"Thermique fossile";2,594
+1999-08;"Thermique fossile";1,95
+1999-09;"Thermique fossile";3,051
+1999-10;"Thermique fossile";3,606
+1999-11;"Thermique fossile";6,015
+1999-12;"Thermique fossile";7,216
+2000-01;"Thermique fossile";8,09
+2000-02;"Thermique fossile";6,571
+2000-03;"Thermique fossile";4,908
+2000-04;"Thermique fossile";4,381
+2000-05;"Thermique fossile";1,606
+2000-06;"Thermique fossile";2,351
+2000-07;"Thermique fossile";2,561
+2000-08;"Thermique fossile";2,092
+2000-09;"Thermique fossile";2,782
+2000-10;"Thermique fossile";3,859
+2000-11;"Thermique fossile";5,291
+2000-12;"Thermique fossile";5,387
+2001-01;"Thermique fossile";4,891
+2001-02;"Thermique fossile";4,678
+2001-03;"Thermique fossile";4,489
+2001-04;"Thermique fossile";2,595
+2001-05;"Thermique fossile";2,198
+2001-06;"Thermique fossile";2,28
+2001-07;"Thermique fossile";1,781
+2001-08;"Thermique fossile";1,369
+2001-09;"Thermique fossile";1,827
+2001-10;"Thermique fossile";2,802
+2001-11;"Thermique fossile";7,119
+2001-12;"Thermique fossile";8,761
+2002-01;"Thermique fossile";8,19
+2002-02;"Thermique fossile";6,635
+2002-03;"Thermique fossile";6,022
+2002-04;"Thermique fossile";3,848
+2002-05;"Thermique fossile";2,671
+2002-06;"Thermique fossile";2,294
+2002-07;"Thermique fossile";2,409
+2002-08;"Thermique fossile";1,692
+2002-09;"Thermique fossile";2,905
+2002-10;"Thermique fossile";3,862
+2002-11;"Thermique fossile";5,05
+2002-12;"Thermique fossile";6,003
+2003-01;"Thermique fossile";7,197
+2003-02;"Thermique fossile";6,832
+2003-03;"Thermique fossile";5,839
+2003-04;"Thermique fossile";3,916
+2003-05;"Thermique fossile";2,437
+2003-06;"Thermique fossile";2,509
+2003-07;"Thermique fossile";2,945
+2003-08;"Thermique fossile";2,924
+2003-09;"Thermique fossile";3,371
+2003-10;"Thermique fossile";4,441
+2003-11;"Thermique fossile";6,153
+2003-12;"Thermique fossile";6,301
+2004-01;"Thermique fossile";6,332
+2004-02;"Thermique fossile";6,197
+2004-03;"Thermique fossile";7,036
+2004-04;"Thermique fossile";4,087
+2004-05;"Thermique fossile";2,885
+2004-06;"Thermique fossile";2,913
+2004-07;"Thermique fossile";2,439
+2004-08;"Thermique fossile";2,631
+2004-09;"Thermique fossile";2,99
+2004-10;"Thermique fossile";3,343
+2004-11;"Thermique fossile";5,986
+2004-12;"Thermique fossile";6,755
+2005-01;"Thermique fossile";6,748
+2005-02;"Thermique fossile";7,51
+2005-03;"Thermique fossile";7,584
+2005-04;"Thermique fossile";4,064
+2005-05;"Thermique fossile";2,692
+2005-06;"Thermique fossile";2,906
+2005-07;"Thermique fossile";3,312
+2005-08;"Thermique fossile";2,005
+2005-09;"Thermique fossile";3,124
+2005-10;"Thermique fossile";3,712
+2005-11;"Thermique fossile";7,271
+2005-12;"Thermique fossile";8,722
+2006-01;"Thermique fossile";8,577
+2006-02;"Thermique fossile";8,067
+2006-03;"Thermique fossile";7,793
+2006-04;"Thermique fossile";1,987
+2006-05;"Thermique fossile";1,517
+2006-06;"Thermique fossile";2,181
+2006-07;"Thermique fossile";2,822
+2006-08;"Thermique fossile";1,884
+2006-09;"Thermique fossile";2,728
+2006-10;"Thermique fossile";3,078
+2006-11;"Thermique fossile";6,334
+2006-12;"Thermique fossile";6,88
+2007-01;"Thermique fossile";6,524
+2007-02;"Thermique fossile";5,87
+2007-03;"Thermique fossile";6,34
+2007-04;"Thermique fossile";3,589
+2007-05;"Thermique fossile";2,835
+2007-06;"Thermique fossile";2,49
+2007-07;"Thermique fossile";2,589
+2007-08;"Thermique fossile";2,092
+2007-09;"Thermique fossile";2,942
+2007-10;"Thermique fossile";4,239
+2007-11;"Thermique fossile";7,57
+2007-12;"Thermique fossile";8,019
+2008-01;"Thermique fossile";7,007
+2008-02;"Thermique fossile";6,151
+2008-03;"Thermique fossile";6,408
+2008-04;"Thermique fossile";3,904
+2008-05;"Thermique fossile";1,954
+2008-06;"Thermique fossile";2,877
+2008-07;"Thermique fossile";2,525
+2008-08;"Thermique fossile";1,729
+2008-09;"Thermique fossile";3,094
+2008-10;"Thermique fossile";4,401
+2008-11;"Thermique fossile";6,074
+2008-12;"Thermique fossile";7,052
+2009-01;"Thermique fossile";7,933
+2009-02;"Thermique fossile";6,84
+2009-03;"Thermique fossile";6,152
+2009-04;"Thermique fossile";2,567
+2009-05;"Thermique fossile";1,786
+2009-06;"Thermique fossile";2,065
+2009-07;"Thermique fossile";2,368
+2009-08;"Thermique fossile";2,539
+2009-09;"Thermique fossile";3,583
+2009-10;"Thermique fossile";4,754
+2009-11;"Thermique fossile";6,594
+2009-12;"Thermique fossile";7,714
+2010-01;"Thermique fossile";8,802
+2010-02;"Thermique fossile";6,822
+2010-03;"Thermique fossile";7,25
+2010-04;"Thermique fossile";3,568
+2010-05;"Thermique fossile";2,843
+2010-06;"Thermique fossile";2,367
+2010-07;"Thermique fossile";2,953
+2010-08;"Thermique fossile";1,58
+2010-09;"Thermique fossile";2,964
+2010-10;"Thermique fossile";4,713
+2010-11;"Thermique fossile";7,024
+2010-12;"Thermique fossile";8,597
+2011-01;"Thermique fossile";6,599
+2011-02;"Thermique fossile";6,553
+2011-03;"Thermique fossile";6,807
+2011-04;"Thermique fossile";2,888
+2011-05;"Thermique fossile";3,227
+2011-06;"Thermique fossile";1,974
+2011-07;"Thermique fossile";1,673
+2011-08;"Thermique fossile";1,806
+2011-09;"Thermique fossile";2,749
+2011-10;"Thermique fossile";4,673
+2011-11;"Thermique fossile";7,08
+2011-12;"Thermique fossile";5,475
+2012-01;"Thermique fossile";5,399
+2012-02;"Thermique fossile";8,721
+2012-03;"Thermique fossile";5,276
+2012-04;"Thermique fossile";3,484
+2012-05;"Thermique fossile";1,771
+2012-06;"Thermique fossile";2,219
+2012-07;"Thermique fossile";2,221
+2012-08;"Thermique fossile";2,534
+2012-09;"Thermique fossile";2,449
+2012-10;"Thermique fossile";3,517
+2012-11;"Thermique fossile";5,19
+2012-12;"Thermique fossile";5,319
+2013-01;"Thermique fossile";6,301
+2013-02;"Thermique fossile";6,357
+2013-03;"Thermique fossile";6,27
+2013-04;"Thermique fossile";2,983
+2013-05;"Thermique fossile";1,403
+2013-06;"Thermique fossile";1,112
+2013-07;"Thermique fossile";1,636
+2013-08;"Thermique fossile";2,044
+2013-09;"Thermique fossile";2,784
+2013-10;"Thermique fossile";3,261
+2013-11;"Thermique fossile";4,877
+2013-12;"Thermique fossile";4,546
+2014-01;"Thermique fossile";3,031036563881
+2014-02;"Thermique fossile";2,568259187598
+2014-03;"Thermique fossile";2,82620799681
+2014-04;"Thermique fossile";1,420471359424
+2014-05;"Thermique fossile";0,992956043612
+2014-06;"Thermique fossile";0,945437594429
+2014-07;"Thermique fossile";0,76336677241
+2014-08;"Thermique fossile";0,710829179058
+2014-09;"Thermique fossile";1,411691225957
+2014-10;"Thermique fossile";2,293652347649
+2014-11;"Thermique fossile";3,402039375699
+2014-12;"Thermique fossile";4,200564357167
+2015-01;"Thermique fossile";4,88284446265
+2015-02;"Thermique fossile";5,229633994707
+2015-03;"Thermique fossile";3,889203839684
+2015-04;"Thermique fossile";1,624218674238
+2015-05;"Thermique fossile";0,645996208547
+2015-06;"Thermique fossile";0,66256748615
+2015-07;"Thermique fossile";1,283504774862
+2015-08;"Thermique fossile";0,772233416769
+2015-09;"Thermique fossile";1,852501824504
+2015-10;"Thermique fossile";3,601618214304
+2015-11;"Thermique fossile";4,534826286179
+2015-12;"Thermique fossile";4,026631460288
+2016-01;"Thermique fossile";4,752440182116
+2016-02;"Thermique fossile";3,622412529785
+2016-03;"Thermique fossile";4,296467032608
+2016-04;"Thermique fossile";2,440371846727
+2016-05;"Thermique fossile";1,424177961691
+2016-06;"Thermique fossile";1,535330774797
+2016-07;"Thermique fossile";1,938343510132
+2016-08;"Thermique fossile";2,049034896238
+2016-09;"Thermique fossile";4,050066080918
+2016-10;"Thermique fossile";4,987050818353
+2016-11;"Thermique fossile";6,579138828378
+2016-12;"Thermique fossile";7,336655761387
+2017-01;"Thermique fossile";8,244805215971
+2017-02;"Thermique fossile";6,04803352552
+2017-03;"Thermique fossile";5,060499532078
+2017-04;"Thermique fossile";3,349094815446
+2017-05;"Thermique fossile";2,332888538861
+2017-06;"Thermique fossile";2,001220556941
+2017-07;"Thermique fossile";3,211099170879
+2017-08;"Thermique fossile";1,971216090115
+2017-09;"Thermique fossile";2,942636990311
+2017-10;"Thermique fossile";5,310486809896
+2017-11;"Thermique fossile";7,01289562507
+2017-12;"Thermique fossile";6,050781076563
+2018-01;"Thermique fossile";3,500031999428
+2018-02;"Thermique fossile";6,017252124225
+2018-03;"Thermique fossile";4,898336892267
+2018-04;"Thermique fossile";1,168501973679
+2018-05;"Thermique fossile";0,833190833094
+2018-06;"Thermique fossile";1,094244376016
+2018-07;"Thermique fossile";2,631009983295
+2018-08;"Thermique fossile";2,488372788157
+2018-09;"Thermique fossile";2,107616917548
+2018-10;"Thermique fossile";3,683700760036
+2018-11;"Thermique fossile";5,551612355879
+2018-12;"Thermique fossile";4,459660161214
+2019-01;"Thermique fossile";6,396932505865
+2019-02;"Thermique fossile";4,829192713397
+2019-03;"Thermique fossile";3,330685664846
+2019-04;"Thermique fossile";2,22655469983
+2019-05;"Thermique fossile";1,981540000173
+2019-06;"Thermique fossile";1,775774953167
+2019-07;"Thermique fossile";2,896627836383
+2019-08;"Thermique fossile";2,176381033006
+2019-09;"Thermique fossile";2,859586866448
+2019-10;"Thermique fossile";3,21060417298
+2019-11;"Thermique fossile";5,628336442444
+2019-12;"Thermique fossile";4,372509391881
+2020-01;"Thermique fossile";5,4848300421
+2020-02;"Thermique fossile";3,833912639933
+2020-03;"Thermique fossile";3,623243372263
+2020-04;"Thermique fossile";0,589894550839
+2020-05;"Thermique fossile";1,221025188019
+2020-06;"Thermique fossile";2,484407571752
+2020-07;"Thermique fossile";2,756111798529
+2020-08;"Thermique fossile";2,634520209942
+2020-09;"Thermique fossile";2,955039772426
+2020-10;"Thermique fossile";2,473419371256
+2020-11;"Thermique fossile";4,433034041344
+2020-12;"Thermique fossile";4,860953361565
+2021-01;"Thermique fossile";5,686564895064
+2021-02;"Thermique fossile";4,059612653124
+2021-03;"Thermique fossile";4,148784041189
+2021-04;"Thermique fossile";3,046683005155
+2021-05;"Thermique fossile";1,223594139311
+2021-06;"Thermique fossile";1,549534216335
+2021-07;"Thermique fossile";1,597575016569
+2021-08;"Thermique fossile";0,954526770944
+2021-09;"Thermique fossile";2,193976293954
+2021-10;"Thermique fossile";2,583212875895
+2021-11;"Thermique fossile";5,770744331193
+2021-12;"Thermique fossile";5,773199862664
+2022-01;"Thermique fossile";6,269569077013
+2022-02;"Thermique fossile";4,501532317535
+2022-03;"Thermique fossile";5,302324587523
+2022-04;"Thermique fossile";3,504846600179
+2022-05;"Thermique fossile";2,965554707998
+2022-06;"Thermique fossile";2,571631428927
+2022-07;"Thermique fossile";3,246633512211
+2022-08;"Thermique fossile";3,023212139926
+2022-09;"Thermique fossile";3,334382715154
+2022-10;"Thermique fossile";3,868423821814
+2022-11;"Thermique fossile";4,70175774616
+2022-12;"Thermique fossile";5,871169957127
+2023-01;"Thermique fossile";4,668001944777
+2023-02;"Thermique fossile";5,357327890945
+2023-03;"Thermique fossile";3,892387543182
+2023-04;"Thermique fossile";2,097614920021
+2023-05;"Thermique fossile";1,39318149695
+2023-06;"Thermique fossile";1,933555943412
+2023-07;"Thermique fossile";2,012066068463
+2023-08;"Thermique fossile";1,888660793015
+2023-09;"Thermique fossile";1,520306453413
+2023-10;"Thermique fossile";1,448637699348
+2023-11;"Thermique fossile";2,963587906161
+2023-12;"Thermique fossile";3,434522804745
+2024-01;"Thermique fossile";4,250765790826
+2024-02;"Thermique fossile";2,850894260403
+2024-03;"Thermique fossile";2,4861065
+1995-01;"Eolien";
+1995-02;"Eolien";
+1995-03;"Eolien";
+1995-04;"Eolien";
+1995-05;"Eolien";
+1995-06;"Eolien";
+1995-07;"Eolien";
+1995-08;"Eolien";
+1995-09;"Eolien";
+1995-10;"Eolien";
+1995-11;"Eolien";
+1995-12;"Eolien";
+1996-01;"Eolien";
+1996-02;"Eolien";
+1996-03;"Eolien";
+1996-04;"Eolien";
+1996-05;"Eolien";
+1996-06;"Eolien";
+1996-07;"Eolien";
+1996-08;"Eolien";
+1996-09;"Eolien";
+1996-10;"Eolien";
+1996-11;"Eolien";
+1996-12;"Eolien";
+1997-01;"Eolien";
+1997-02;"Eolien";
+1997-03;"Eolien";
+1997-04;"Eolien";
+1997-05;"Eolien";
+1997-06;"Eolien";
+1997-07;"Eolien";
+1997-08;"Eolien";
+1997-09;"Eolien";
+1997-10;"Eolien";
+1997-11;"Eolien";
+1997-12;"Eolien";
+1998-01;"Eolien";
+1998-02;"Eolien";
+1998-03;"Eolien";
+1998-04;"Eolien";
+1998-05;"Eolien";
+1998-06;"Eolien";
+1998-07;"Eolien";
+1998-08;"Eolien";
+1998-09;"Eolien";
+1998-10;"Eolien";
+1998-11;"Eolien";
+1998-12;"Eolien";
+1999-01;"Eolien";
+1999-02;"Eolien";
+1999-03;"Eolien";
+1999-04;"Eolien";
+1999-05;"Eolien";
+1999-06;"Eolien";
+1999-07;"Eolien";
+1999-08;"Eolien";
+1999-09;"Eolien";
+1999-10;"Eolien";
+1999-11;"Eolien";
+1999-12;"Eolien";
+2000-01;"Eolien";
+2000-02;"Eolien";
+2000-03;"Eolien";
+2000-04;"Eolien";
+2000-05;"Eolien";
+2000-06;"Eolien";
+2000-07;"Eolien";
+2000-08;"Eolien";
+2000-09;"Eolien";
+2000-10;"Eolien";
+2000-11;"Eolien";
+2000-12;"Eolien";
+2001-01;"Eolien";0,007
+2001-02;"Eolien";0,011
+2001-03;"Eolien";0,009
+2001-04;"Eolien";0,011
+2001-05;"Eolien";0,01
+2001-06;"Eolien";0,008
+2001-07;"Eolien";0,007
+2001-08;"Eolien";0,011
+2001-09;"Eolien";0,012
+2001-10;"Eolien";0,008
+2001-11;"Eolien";0,015
+2001-12;"Eolien";0,021
+2002-01;"Eolien";0,015
+2002-02;"Eolien";0,022
+2002-03;"Eolien";0,018
+2002-04;"Eolien";0,023
+2002-05;"Eolien";0,024
+2002-06;"Eolien";0,018
+2002-07;"Eolien";0,025
+2002-08;"Eolien";0,021
+2002-09;"Eolien";0,019
+2002-10;"Eolien";0,021
+2002-11;"Eolien";0,033
+2002-12;"Eolien";0,029
+2003-01;"Eolien";0,036
+2003-02;"Eolien";0,03
+2003-03;"Eolien";0,0273
+2003-04;"Eolien";0,0305
+2003-05;"Eolien";0,0355
+2003-06;"Eolien";0,023
+2003-07;"Eolien";0,0335
+2003-08;"Eolien";0,0175
+2003-09;"Eolien";0,027
+2003-10;"Eolien";0,0434
+2003-11;"Eolien";0,036
+2003-12;"Eolien";0,05
+2004-01;"Eolien";0,054
+2004-02;"Eolien";0,047
+2004-03;"Eolien";0,057
+2004-04;"Eolien";0,053
+2004-05;"Eolien";0,037
+2004-06;"Eolien";0,043
+2004-07;"Eolien";0,044
+2004-08;"Eolien";0,04
+2004-09;"Eolien";0,047
+2004-10;"Eolien";0,045
+2004-11;"Eolien";0,062
+2004-12;"Eolien";0,076
+2005-01;"Eolien";0,102
+2005-02;"Eolien";0,082
+2005-03;"Eolien";0,065
+2005-04;"Eolien";0,067
+2005-05;"Eolien";0,069
+2005-06;"Eolien";0,05
+2005-07;"Eolien";0,071
+2005-08;"Eolien";0,073
+2005-09;"Eolien";0,058
+2005-10;"Eolien";0,107
+2005-11;"Eolien";0,107
+2005-12;"Eolien";0,134
+2006-01;"Eolien";0,136
+2006-02;"Eolien";0,144
+2006-03;"Eolien";0,204
+2006-04;"Eolien";0,152
+2006-05;"Eolien";0,175
+2006-06;"Eolien";0,105
+2006-07;"Eolien";0,097
+2006-08;"Eolien";0,201
+2006-09;"Eolien";0,158
+2006-10;"Eolien";0,245
+2006-11;"Eolien";0,308
+2006-12;"Eolien";0,332
+2007-01;"Eolien";0,426
+2007-02;"Eolien";0,354
+2007-03;"Eolien";0,348
+2007-04;"Eolien";0,184
+2007-05;"Eolien";0,353
+2007-06;"Eolien";0,241
+2007-07;"Eolien";0,33
+2007-08;"Eolien";0,278
+2007-09;"Eolien";0,267
+2007-10;"Eolien";0,273
+2007-11;"Eolien";0,43
+2007-12;"Eolien";0,561
+2008-01;"Eolien";0,606
+2008-02;"Eolien";0,432
+2008-03;"Eolien";0,701
+2008-04;"Eolien";0,419
+2008-05;"Eolien";0,283
+2008-06;"Eolien";0,274
+2008-07;"Eolien";0,343
+2008-08;"Eolien";0,393
+2008-09;"Eolien";0,439
+2008-10;"Eolien";0,453
+2008-11;"Eolien";0,608
+2008-12;"Eolien";0,612
+2009-01;"Eolien";0,654
+2009-02;"Eolien";0,507
+2009-03;"Eolien";0,763
+2009-04;"Eolien";0,48
+2009-05;"Eolien";0,554
+2009-06;"Eolien";0,419
+2009-07;"Eolien";0,563
+2009-08;"Eolien";0,363
+2009-09;"Eolien";0,567
+2009-10;"Eolien";0,652
+2009-11;"Eolien";1,345
+2009-12;"Eolien";0,987
+2010-01;"Eolien";0,688
+2010-02;"Eolien";0,98
+2010-03;"Eolien";1,175
+2010-04;"Eolien";0,731
+2010-05;"Eolien";0,743
+2010-06;"Eolien";0,581
+2010-07;"Eolien";0,488
+2010-08;"Eolien";0,684
+2010-09;"Eolien";0,569
+2010-10;"Eolien";1,075
+2010-11;"Eolien";1,01
+2010-12;"Eolien";1,003
+2011-01;"Eolien";1,268
+2011-02;"Eolien";0,9
+2011-03;"Eolien";1,135
+2011-04;"Eolien";0,688
+2011-05;"Eolien";0,749
+2011-06;"Eolien";0,886
+2011-07;"Eolien";0,839
+2011-08;"Eolien";0,687
+2011-09;"Eolien";0,855
+2011-10;"Eolien";1,07
+2011-11;"Eolien";0,945
+2011-12;"Eolien";2,053
+2012-01;"Eolien";1,587
+2012-02;"Eolien";1,123
+2012-03;"Eolien";0,977
+2012-04;"Eolien";1,572
+2012-05;"Eolien";0,974
+2012-06;"Eolien";0,994
+2012-07;"Eolien";0,912
+2012-08;"Eolien";0,907
+2012-09;"Eolien";0,931
+2012-10;"Eolien";1,355
+2012-11;"Eolien";1,309
+2012-12;"Eolien";2,29
+2013-01;"Eolien";1,326
+2013-02;"Eolien";1,463
+2013-03;"Eolien";1,352
+2013-04;"Eolien";1,49
+2013-05;"Eolien";1,155
+2013-06;"Eolien";1,16
+2013-07;"Eolien";0,877
+2013-08;"Eolien";0,739
+2013-09;"Eolien";0,948
+2013-10;"Eolien";1,612
+2013-11;"Eolien";1,809
+2013-12;"Eolien";2,011
+2014-01;"Eolien";2,181930765
+2014-02;"Eolien";2,472573395
+2014-03;"Eolien";1,282373217
+2014-04;"Eolien";1,048399965
+2014-05;"Eolien";1,519585523
+2014-06;"Eolien";0,955105605
+2014-07;"Eolien";0,94654156
+2014-08;"Eolien";0,975654709
+2014-09;"Eolien";0,723096472
+2014-10;"Eolien";1,269911121
+2014-11;"Eolien";1,492060319
+2014-12;"Eolien";2,106223207
+2015-01;"Eolien";2,299499355
+2015-02;"Eolien";1,910273513
+2015-03;"Eolien";2,005330166
+2015-04;"Eolien";1,452411474
+2015-05;"Eolien";1,580470869
+2015-06;"Eolien";1,254703138
+2015-07;"Eolien";1,399122421
+2015-08;"Eolien";1,126091025
+2015-09;"Eolien";1,674529235
+2015-10;"Eolien";1,292109478
+2015-11;"Eolien";2,54487977
+2015-12;"Eolien";2,572774139
+2016-01;"Eolien";2,850363945
+2016-02;"Eolien";2,899854449
+2016-03;"Eolien";2,453641916
+2016-04;"Eolien";1,670149414
+2016-05;"Eolien";1,541870077
+2016-06;"Eolien";1,071145828
+2016-07;"Eolien";1,017766236
+2016-08;"Eolien";1,187715009
+2016-09;"Eolien";0,990726539
+2016-10;"Eolien";1,409801363
+2016-11;"Eolien";2,323655174
+2016-12;"Eolien";1,529318185
+2017-01;"Eolien";2,043715104831
+2017-02;"Eolien";2,534326608499
+2017-03;"Eolien";2,647432809502
+2017-04;"Eolien";1,459997116501
+2017-05;"Eolien";1,494177471334
+2017-06;"Eolien";1,468629520002
+2017-07;"Eolien";1,704786485334
+2017-08;"Eolien";1,232375436663
+2017-09;"Eolien";1,638291637165
+2017-10;"Eolien";2,074851764002
+2017-11;"Eolien";2,315354451667
+2017-12;"Eolien";3,365612346502
+2018-01;"Eolien";3,998781846333
+2018-02;"Eolien";2,778074741002
+2018-03;"Eolien";3,125905008164
+2018-04;"Eolien";2,160852737334
+2018-05;"Eolien";1,598885334834
+2018-06;"Eolien";1,370421285331
+2018-07;"Eolien";1,100474301504
+2018-08;"Eolien";1,402971755001
+2018-09;"Eolien";1,612137183168
+2018-10;"Eolien";2,491466995335
+2018-11;"Eolien";2,801367641833
+2018-12;"Eolien";3,651540939334
+2019-01;"Eolien";3,050435165168
+2019-02;"Eolien";2,6250344105
+2019-03;"Eolien";4,421031634835
+2019-04;"Eolien";2,316183978501
+2019-05;"Eolien";2,204962824832
+2019-06;"Eolien";1,866695914168
+2019-07;"Eolien";1,699200597498
+2019-08;"Eolien";1,632582021998
+2019-09;"Eolien";2,612926876839
+2019-10;"Eolien";3,359795886168
+2019-11;"Eolien";3,338164607165
+2019-12;"Eolien";4,649236096502
+2020-01;"Eolien";4,159034592832
+2020-02;"Eolien";5,886467195168
+2020-03;"Eolien";4,486351539168
+2020-04;"Eolien";2,273310543
+2020-05;"Eolien";2,653211601334
+2020-06;"Eolien";2,043719374664
+2020-07;"Eolien";2,0985652
+2020-08;"Eolien";2,040062200998
+2020-09;"Eolien";2,140145431666
+2020-10;"Eolien";4,322241909
+2020-11;"Eolien";3,167235663333
+2020-12;"Eolien";4,411615265336
+2021-01;"Eolien";3,9658019785
+2021-02;"Eolien";4,255260636666
+2021-03;"Eolien";3,705755464332
+2021-04;"Eolien";2,945286345169
+2021-05;"Eolien";3,94241923317
+2021-06;"Eolien";1,341539519337
+2021-07;"Eolien";2,301773261996
+2021-08;"Eolien";2,22316738784
+2021-09;"Eolien";1,655743298001
+2021-10;"Eolien";3,490455014162
+2021-11;"Eolien";2,728709986169
+2021-12;"Eolien";4,351562784494
+2022-01;"Eolien";3,154417255152
+2022-02;"Eolien";5,340985022585
+2022-03;"Eolien";3,520414675994
+2022-04;"Eolien";3,592336632095
+2022-05;"Eolien";2,12577417663
+2022-06;"Eolien";1,844654349314
+2022-07;"Eolien";1,886606801731
+2022-08;"Eolien";2,07796359441
+2022-09;"Eolien";2,310256599665
+2022-10;"Eolien";3,535329169115
+2022-11;"Eolien";4,88612316988
+2022-12;"Eolien";4,613143727264
+2023-01;"Eolien";5,657747883192
+2023-02;"Eolien";3,417778401063
+2023-03;"Eolien";5,944875823391
+2023-04;"Eolien";3,840092142946
+2023-05;"Eolien";3,690504221636
+2023-06;"Eolien";2,105168512771
+2023-07;"Eolien";3,252621050889
+2023-08;"Eolien";2,779347578743
+2023-09;"Eolien";2,38553658252
+2023-10;"Eolien";4,534184236863
+2023-11;"Eolien";6,468138252186
+2023-12;"Eolien";6,756489938093
+2024-01;"Eolien";5,445726463662
+2024-02;"Eolien";5,811262491354
+2024-03;"Eolien";4,38423825
+1995-01;"Solaire";
+1995-02;"Solaire";
+1995-03;"Solaire";
+1995-04;"Solaire";
+1995-05;"Solaire";
+1995-06;"Solaire";
+1995-07;"Solaire";
+1995-08;"Solaire";
+1995-09;"Solaire";
+1995-10;"Solaire";
+1995-11;"Solaire";
+1995-12;"Solaire";
+1996-01;"Solaire";
+1996-02;"Solaire";
+1996-03;"Solaire";
+1996-04;"Solaire";
+1996-05;"Solaire";
+1996-06;"Solaire";
+1996-07;"Solaire";
+1996-08;"Solaire";
+1996-09;"Solaire";
+1996-10;"Solaire";
+1996-11;"Solaire";
+1996-12;"Solaire";
+1997-01;"Solaire";
+1997-02;"Solaire";
+1997-03;"Solaire";
+1997-04;"Solaire";
+1997-05;"Solaire";
+1997-06;"Solaire";
+1997-07;"Solaire";
+1997-08;"Solaire";
+1997-09;"Solaire";
+1997-10;"Solaire";
+1997-11;"Solaire";
+1997-12;"Solaire";
+1998-01;"Solaire";
+1998-02;"Solaire";
+1998-03;"Solaire";
+1998-04;"Solaire";
+1998-05;"Solaire";
+1998-06;"Solaire";
+1998-07;"Solaire";
+1998-08;"Solaire";
+1998-09;"Solaire";
+1998-10;"Solaire";
+1998-11;"Solaire";
+1998-12;"Solaire";
+1999-01;"Solaire";
+1999-02;"Solaire";
+1999-03;"Solaire";
+1999-04;"Solaire";
+1999-05;"Solaire";
+1999-06;"Solaire";
+1999-07;"Solaire";
+1999-08;"Solaire";
+1999-09;"Solaire";
+1999-10;"Solaire";
+1999-11;"Solaire";
+1999-12;"Solaire";
+2000-01;"Solaire";
+2000-02;"Solaire";
+2000-03;"Solaire";
+2000-04;"Solaire";
+2000-05;"Solaire";
+2000-06;"Solaire";
+2000-07;"Solaire";
+2000-08;"Solaire";
+2000-09;"Solaire";
+2000-10;"Solaire";
+2000-11;"Solaire";
+2000-12;"Solaire";
+2001-01;"Solaire";
+2001-02;"Solaire";
+2001-03;"Solaire";
+2001-04;"Solaire";
+2001-05;"Solaire";
+2001-06;"Solaire";
+2001-07;"Solaire";
+2001-08;"Solaire";
+2001-09;"Solaire";
+2001-10;"Solaire";
+2001-11;"Solaire";
+2001-12;"Solaire";
+2002-01;"Solaire";
+2002-02;"Solaire";
+2002-03;"Solaire";
+2002-04;"Solaire";
+2002-05;"Solaire";
+2002-06;"Solaire";
+2002-07;"Solaire";
+2002-08;"Solaire";
+2002-09;"Solaire";
+2002-10;"Solaire";
+2002-11;"Solaire";
+2002-12;"Solaire";
+2003-01;"Solaire";
+2003-02;"Solaire";
+2003-03;"Solaire";
+2003-04;"Solaire";
+2003-05;"Solaire";
+2003-06;"Solaire";
+2003-07;"Solaire";
+2003-08;"Solaire";
+2003-09;"Solaire";
+2003-10;"Solaire";
+2003-11;"Solaire";
+2003-12;"Solaire";
+2004-01;"Solaire";
+2004-02;"Solaire";
+2004-03;"Solaire";
+2004-04;"Solaire";
+2004-05;"Solaire";
+2004-06;"Solaire";
+2004-07;"Solaire";
+2004-08;"Solaire";
+2004-09;"Solaire";
+2004-10;"Solaire";
+2004-11;"Solaire";
+2004-12;"Solaire";
+2005-01;"Solaire";
+2005-02;"Solaire";
+2005-03;"Solaire";
+2005-04;"Solaire";
+2005-05;"Solaire";
+2005-06;"Solaire";
+2005-07;"Solaire";
+2005-08;"Solaire";
+2005-09;"Solaire";
+2005-10;"Solaire";
+2005-11;"Solaire";
+2005-12;"Solaire";
+2006-01;"Solaire";0,0005
+2006-02;"Solaire";0,0005
+2006-03;"Solaire";0,0005
+2006-04;"Solaire";0,0005
+2006-05;"Solaire";0,0005
+2006-06;"Solaire";0,0005
+2006-07;"Solaire";0,0005
+2006-08;"Solaire";0,0005
+2006-09;"Solaire";0,0005
+2006-10;"Solaire";0,0005
+2006-11;"Solaire";0,0005
+2006-12;"Solaire";0,0005
+2007-01;"Solaire";0,0005
+2007-02;"Solaire";0,0005
+2007-03;"Solaire";0,0005
+2007-04;"Solaire";0,0005
+2007-05;"Solaire";0,0005
+2007-06;"Solaire";0,0005
+2007-07;"Solaire";0,0005
+2007-08;"Solaire";0,0005
+2007-09;"Solaire";0,0005
+2007-10;"Solaire";0,0005
+2007-11;"Solaire";0,0005
+2007-12;"Solaire";0,0005
+2008-01;"Solaire";0,0013
+2008-02;"Solaire";0,0015
+2008-03;"Solaire";0,0017
+2008-04;"Solaire";0,002
+2008-05;"Solaire";0,002
+2008-06;"Solaire";0,0021
+2008-07;"Solaire";0,003
+2008-08;"Solaire";0,0027
+2008-09;"Solaire";0,0029
+2008-10;"Solaire";0,0025
+2008-11;"Solaire";0,002
+2008-12;"Solaire";0,0019
+2009-01;"Solaire";0,005
+2009-02;"Solaire";0,007
+2009-03;"Solaire";0,012
+2009-04;"Solaire";0,012
+2009-05;"Solaire";0,016
+2009-06;"Solaire";0,018
+2009-07;"Solaire";0,021
+2009-08;"Solaire";0,021
+2009-09;"Solaire";0,018
+2009-10;"Solaire";0,015
+2009-11;"Solaire";0,009
+2009-12;"Solaire";0,007
+2010-01;"Solaire";0,01
+2010-02;"Solaire";0,016
+2010-03;"Solaire";0,031
+2010-04;"Solaire";0,045
+2010-05;"Solaire";0,054
+2010-06;"Solaire";0,055
+2010-07;"Solaire";0,069
+2010-08;"Solaire";0,074
+2010-09;"Solaire";0,074
+2010-10;"Solaire";0,058
+2010-11;"Solaire";0,032
+2010-12;"Solaire";0,03
+2011-01;"Solaire";0,048
+2011-02;"Solaire";0,066
+2011-03;"Solaire";0,126
+2011-04;"Solaire";0,19
+2011-05;"Solaire";0,225
+2011-06;"Solaire";0,214
+2011-07;"Solaire";0,249
+2011-08;"Solaire";0,271
+2011-09;"Solaire";0,251
+2011-10;"Solaire";0,208
+2011-11;"Solaire";0,12
+2011-12;"Solaire";0,099
+2012-01;"Solaire";0,125
+2012-02;"Solaire";0,216
+2012-03;"Solaire";0,356
+2012-04;"Solaire";0,329
+2012-05;"Solaire";0,454
+2012-06;"Solaire";0,483
+2012-07;"Solaire";0,544
+2012-08;"Solaire";0,536
+2012-09;"Solaire";0,413
+2012-10;"Solaire";0,283
+2012-11;"Solaire";0,182
+2012-12;"Solaire";0,149
+2013-01;"Solaire";0,146
+2013-02;"Solaire";0,23
+2013-03;"Solaire";0,344
+2013-04;"Solaire";0,434
+2013-05;"Solaire";0,503
+2013-06;"Solaire";0,563
+2013-07;"Solaire";0,658
+2013-08;"Solaire";0,602
+2013-09;"Solaire";0,463
+2013-10;"Solaire";0,32
+2013-11;"Solaire";0,183
+2013-12;"Solaire";0,216
+2014-01;"Solaire";0,176269528
+2014-02;"Solaire";0,262552421
+2014-03;"Solaire";0,53408534
+2014-04;"Solaire";0,584097606
+2014-05;"Solaire";0,68133538
+2014-06;"Solaire";0,763174562
+2014-07;"Solaire";0,685904926
+2014-08;"Solaire";0,694138051
+2014-09;"Solaire";0,640237965
+2014-10;"Solaire";0,479780474
+2014-11;"Solaire";0,244358673
+2014-12;"Solaire";0,190198034
+2015-01;"Solaire";0,251777314
+2015-02;"Solaire";0,358825449
+2015-03;"Solaire";0,536985285
+2015-04;"Solaire";0,782696397
+2015-05;"Solaire";0,843480527
+2015-06;"Solaire";0,951574511
+2015-07;"Solaire";0,943073496
+2015-08;"Solaire";0,851524067
+2015-09;"Solaire";0,715763506
+2015-10;"Solaire";0,512350133
+2015-11;"Solaire";0,376561335
+2015-12;"Solaire";0,306025164
+2016-01;"Solaire";0,275822869
+2016-02;"Solaire";0,409533025
+2016-03;"Solaire";0,675006272
+2016-04;"Solaire";0,794985625
+2016-05;"Solaire";0,930777967
+2016-06;"Solaire";0,908886073
+2016-07;"Solaire";1,067841828
+2016-08;"Solaire";1,059874987
+2016-09;"Solaire";0,822057626
+2016-10;"Solaire";0,726086999
+2016-11;"Solaire";0,368047649
+2016-12;"Solaire";0,368126449
+2017-01;"Solaire";0,362941822
+2017-02;"Solaire";0,430247997
+2017-03;"Solaire";0,701990877
+2017-04;"Solaire";1,042176329
+2017-05;"Solaire";1,087886667
+2017-06;"Solaire";1,1279303
+2017-07;"Solaire";1,079611405
+2017-08;"Solaire";1,049986653
+2017-09;"Solaire";0,820547325
+2017-10;"Solaire";0,713884346
+2017-11;"Solaire";0,454424329
+2017-12;"Solaire";0,276999601
+2018-01;"Solaire";0,27454880333596
+2018-02;"Solaire";0,51943436649205
+2018-03;"Solaire";0,76600224134734
+2018-04;"Solaire";1,0079664089268
+2018-05;"Solaire";1,1413631130581
+2018-06;"Solaire";1,2857140218688
+2018-07;"Solaire";1,4292409092911
+2018-08;"Solaire";1,3164334917922
+2018-09;"Solaire";1,1624357001671
+2018-10;"Solaire";0,78824563338022
+2018-11;"Solaire";0,47103286118343
+2018-12;"Solaire";0,28308183182302
+2019-01;"Solaire";0,41712816477612
+2019-02;"Solaire";0,77263743384789
+2019-03;"Solaire";1,0998391739427
+2019-04;"Solaire";1,1094147663077
+2019-05;"Solaire";1,3620638029494
+2019-06;"Solaire";1,4453528933106
+2019-07;"Solaire";1,5445849622436
+2019-08;"Solaire";1,4251378565594
+2019-09;"Solaire";1,192008970306
+2019-10;"Solaire";0,76259605739038
+2019-11;"Solaire";0,44683292482604
+2019-12;"Solaire";0,42776991568344
+2020-01;"Solaire";0,467551616834
+2020-02;"Solaire";0,707553411667
+2020-03;"Solaire";1,014502267831
+2020-04;"Solaire";1,260516188332
+2020-05;"Solaire";1,543109171
+2020-06;"Solaire";1,468763700001
+2020-07;"Solaire";1,690834250503
+2020-08;"Solaire";1,504209272333
+2020-09;"Solaire";1,221044863665
+2020-10;"Solaire";0,768218621168
+2020-11;"Solaire";0,659877402333
+2020-12;"Solaire";0,353014417334
+2021-01;"Solaire";0,43456266513803
+2021-02;"Solaire";0,62959629312028
+2021-03;"Solaire";1,2285258134972
+2021-04;"Solaire";1,5336167823628
+2021-05;"Solaire";1,5720588928935
+2021-06;"Solaire";1,639167533638
+2021-07;"Solaire";1,676094859676
+2021-08;"Solaire";1,7040902828343
+2021-09;"Solaire";1,4138879819554
+2021-10;"Solaire";1,2019098718187
+2021-11;"Solaire";0,66292761381884
+2021-12;"Solaire";0,53206634124574
+2022-01;"Solaire";0,766409030148
+2022-02;"Solaire";0,987468986646
+2022-03;"Solaire";1,35662721011
+2022-04;"Solaire";1,750310238942
+2022-05;"Solaire";2,286319138565
+2022-06;"Solaire";2,19565488195
+2022-07;"Solaire";2,57264980366
+2022-08;"Solaire";2,267229139597
+2022-09;"Solaire";1,789196881826
+2022-10;"Solaire";1,26504268688
+2022-11;"Solaire";0,810419008127
+2022-12;"Solaire";0,478123355647
+2023-01;"Solaire";0,615987854693
+2023-02;"Solaire";1,245663257332
+2023-03;"Solaire";1,637235839622
+2023-04;"Solaire";2,148748951243
+2023-05;"Solaire";2,514610559118
+2023-06;"Solaire";2,678701577316
+2023-07;"Solaire";2,694533971146
+2023-08;"Solaire";2,575813848939
+2023-09;"Solaire";2,271814309386
+2023-10;"Solaire";1,620054991035
+2023-11;"Solaire";0,899426505014
+2023-12;"Solaire";0,687911195975
+2024-01;"Solaire";0,804866926247
+2024-02;"Solaire";1,086056391044
+2024-03;"Solaire";1,8808255
+1995-01;"Thermique renouvelable et déchets";
+1995-02;"Thermique renouvelable et déchets";
+1995-03;"Thermique renouvelable et déchets";
+1995-04;"Thermique renouvelable et déchets";
+1995-05;"Thermique renouvelable et déchets";
+1995-06;"Thermique renouvelable et déchets";
+1995-07;"Thermique renouvelable et déchets";
+1995-08;"Thermique renouvelable et déchets";
+1995-09;"Thermique renouvelable et déchets";
+1995-10;"Thermique renouvelable et déchets";
+1995-11;"Thermique renouvelable et déchets";
+1995-12;"Thermique renouvelable et déchets";
+1996-01;"Thermique renouvelable et déchets";
+1996-02;"Thermique renouvelable et déchets";
+1996-03;"Thermique renouvelable et déchets";
+1996-04;"Thermique renouvelable et déchets";
+1996-05;"Thermique renouvelable et déchets";
+1996-06;"Thermique renouvelable et déchets";
+1996-07;"Thermique renouvelable et déchets";
+1996-08;"Thermique renouvelable et déchets";
+1996-09;"Thermique renouvelable et déchets";
+1996-10;"Thermique renouvelable et déchets";
+1996-11;"Thermique renouvelable et déchets";
+1996-12;"Thermique renouvelable et déchets";
+1997-01;"Thermique renouvelable et déchets";
+1997-02;"Thermique renouvelable et déchets";
+1997-03;"Thermique renouvelable et déchets";
+1997-04;"Thermique renouvelable et déchets";
+1997-05;"Thermique renouvelable et déchets";
+1997-06;"Thermique renouvelable et déchets";
+1997-07;"Thermique renouvelable et déchets";
+1997-08;"Thermique renouvelable et déchets";
+1997-09;"Thermique renouvelable et déchets";
+1997-10;"Thermique renouvelable et déchets";
+1997-11;"Thermique renouvelable et déchets";
+1997-12;"Thermique renouvelable et déchets";
+1998-01;"Thermique renouvelable et déchets";
+1998-02;"Thermique renouvelable et déchets";
+1998-03;"Thermique renouvelable et déchets";
+1998-04;"Thermique renouvelable et déchets";
+1998-05;"Thermique renouvelable et déchets";
+1998-06;"Thermique renouvelable et déchets";
+1998-07;"Thermique renouvelable et déchets";
+1998-08;"Thermique renouvelable et déchets";
+1998-09;"Thermique renouvelable et déchets";
+1998-10;"Thermique renouvelable et déchets";
+1998-11;"Thermique renouvelable et déchets";
+1998-12;"Thermique renouvelable et déchets";
+1999-01;"Thermique renouvelable et déchets";
+1999-02;"Thermique renouvelable et déchets";
+1999-03;"Thermique renouvelable et déchets";
+1999-04;"Thermique renouvelable et déchets";
+1999-05;"Thermique renouvelable et déchets";
+1999-06;"Thermique renouvelable et déchets";
+1999-07;"Thermique renouvelable et déchets";
+1999-08;"Thermique renouvelable et déchets";
+1999-09;"Thermique renouvelable et déchets";
+1999-10;"Thermique renouvelable et déchets";
+1999-11;"Thermique renouvelable et déchets";
+1999-12;"Thermique renouvelable et déchets";
+2000-01;"Thermique renouvelable et déchets";
+2000-02;"Thermique renouvelable et déchets";
+2000-03;"Thermique renouvelable et déchets";
+2000-04;"Thermique renouvelable et déchets";
+2000-05;"Thermique renouvelable et déchets";
+2000-06;"Thermique renouvelable et déchets";
+2000-07;"Thermique renouvelable et déchets";
+2000-08;"Thermique renouvelable et déchets";
+2000-09;"Thermique renouvelable et déchets";
+2000-10;"Thermique renouvelable et déchets";
+2000-11;"Thermique renouvelable et déchets";
+2000-12;"Thermique renouvelable et déchets";
+2001-01;"Thermique renouvelable et déchets";0,1845
+2001-02;"Thermique renouvelable et déchets";0,1845
+2001-03;"Thermique renouvelable et déchets";0,1845
+2001-04;"Thermique renouvelable et déchets";0,1845
+2001-05;"Thermique renouvelable et déchets";0,1845
+2001-06;"Thermique renouvelable et déchets";0,1845
+2001-07;"Thermique renouvelable et déchets";0,1845
+2001-08;"Thermique renouvelable et déchets";0,1845
+2001-09;"Thermique renouvelable et déchets";0,1845
+2001-10;"Thermique renouvelable et déchets";0,1845
+2001-11;"Thermique renouvelable et déchets";0,1845
+2001-12;"Thermique renouvelable et déchets";0,1845
+2002-01;"Thermique renouvelable et déchets";0,2268
+2002-02;"Thermique renouvelable et déchets";0,2268
+2002-03;"Thermique renouvelable et déchets";0,2268
+2002-04;"Thermique renouvelable et déchets";0,2268
+2002-05;"Thermique renouvelable et déchets";0,2268
+2002-06;"Thermique renouvelable et déchets";0,2268
+2002-07;"Thermique renouvelable et déchets";0,2268
+2002-08;"Thermique renouvelable et déchets";0,2268
+2002-09;"Thermique renouvelable et déchets";0,2268
+2002-10;"Thermique renouvelable et déchets";0,2268
+2002-11;"Thermique renouvelable et déchets";0,2268
+2002-12;"Thermique renouvelable et déchets";0,2268
+2003-01;"Thermique renouvelable et déchets";0,2272
+2003-02;"Thermique renouvelable et déchets";0,2272
+2003-03;"Thermique renouvelable et déchets";0,2272
+2003-04;"Thermique renouvelable et déchets";0,2272
+2003-05;"Thermique renouvelable et déchets";0,2272
+2003-06;"Thermique renouvelable et déchets";0,2272
+2003-07;"Thermique renouvelable et déchets";0,2272
+2003-08;"Thermique renouvelable et déchets";0,2272
+2003-09;"Thermique renouvelable et déchets";0,2272
+2003-10;"Thermique renouvelable et déchets";0,2272
+2003-11;"Thermique renouvelable et déchets";0,2272
+2003-12;"Thermique renouvelable et déchets";0,2272
+2004-01;"Thermique renouvelable et déchets";0,2724
+2004-02;"Thermique renouvelable et déchets";0,2724
+2004-03;"Thermique renouvelable et déchets";0,2724
+2004-04;"Thermique renouvelable et déchets";0,2724
+2004-05;"Thermique renouvelable et déchets";0,2724
+2004-06;"Thermique renouvelable et déchets";0,2724
+2004-07;"Thermique renouvelable et déchets";0,2724
+2004-08;"Thermique renouvelable et déchets";0,2724
+2004-09;"Thermique renouvelable et déchets";0,2724
+2004-10;"Thermique renouvelable et déchets";0,2724
+2004-11;"Thermique renouvelable et déchets";0,2724
+2004-12;"Thermique renouvelable et déchets";0,2724
+2005-01;"Thermique renouvelable et déchets";0,2781
+2005-02;"Thermique renouvelable et déchets";0,2781
+2005-03;"Thermique renouvelable et déchets";0,2781
+2005-04;"Thermique renouvelable et déchets";0,2781
+2005-05;"Thermique renouvelable et déchets";0,2781
+2005-06;"Thermique renouvelable et déchets";0,2781
+2005-07;"Thermique renouvelable et déchets";0,2781
+2005-08;"Thermique renouvelable et déchets";0,2781
+2005-09;"Thermique renouvelable et déchets";0,2781
+2005-10;"Thermique renouvelable et déchets";0,2781
+2005-11;"Thermique renouvelable et déchets";0,2781
+2005-12;"Thermique renouvelable et déchets";0,2781
+2006-01;"Thermique renouvelable et déchets";0,2783
+2006-02;"Thermique renouvelable et déchets";0,2783
+2006-03;"Thermique renouvelable et déchets";0,2783
+2006-04;"Thermique renouvelable et déchets";0,2783
+2006-05;"Thermique renouvelable et déchets";0,2783
+2006-06;"Thermique renouvelable et déchets";0,2783
+2006-07;"Thermique renouvelable et déchets";0,2783
+2006-08;"Thermique renouvelable et déchets";0,2783
+2006-09;"Thermique renouvelable et déchets";0,2783
+2006-10;"Thermique renouvelable et déchets";0,2783
+2006-11;"Thermique renouvelable et déchets";0,2783
+2006-12;"Thermique renouvelable et déchets";0,2783
+2007-01;"Thermique renouvelable et déchets";0,3153
+2007-02;"Thermique renouvelable et déchets";0,3153
+2007-03;"Thermique renouvelable et déchets";0,3153
+2007-04;"Thermique renouvelable et déchets";0,3153
+2007-05;"Thermique renouvelable et déchets";0,3153
+2007-06;"Thermique renouvelable et déchets";0,3153
+2007-07;"Thermique renouvelable et déchets";0,3153
+2007-08;"Thermique renouvelable et déchets";0,3153
+2007-09;"Thermique renouvelable et déchets";0,3153
+2007-10;"Thermique renouvelable et déchets";0,3153
+2007-11;"Thermique renouvelable et déchets";0,3153
+2007-12;"Thermique renouvelable et déchets";0,3153
+2008-01;"Thermique renouvelable et déchets";0,3434
+2008-02;"Thermique renouvelable et déchets";0,3434
+2008-03;"Thermique renouvelable et déchets";0,3434
+2008-04;"Thermique renouvelable et déchets";0,3434
+2008-05;"Thermique renouvelable et déchets";0,3434
+2008-06;"Thermique renouvelable et déchets";0,3434
+2008-07;"Thermique renouvelable et déchets";0,3434
+2008-08;"Thermique renouvelable et déchets";0,3434
+2008-09;"Thermique renouvelable et déchets";0,3434
+2008-10;"Thermique renouvelable et déchets";0,3434
+2008-11;"Thermique renouvelable et déchets";0,3434
+2008-12;"Thermique renouvelable et déchets";0,3434
+2009-01;"Thermique renouvelable et déchets";0,3618
+2009-02;"Thermique renouvelable et déchets";0,3618
+2009-03;"Thermique renouvelable et déchets";0,3618
+2009-04;"Thermique renouvelable et déchets";0,3618
+2009-05;"Thermique renouvelable et déchets";0,3618
+2009-06;"Thermique renouvelable et déchets";0,3618
+2009-07;"Thermique renouvelable et déchets";0,3618
+2009-08;"Thermique renouvelable et déchets";0,3618
+2009-09;"Thermique renouvelable et déchets";0,3618
+2009-10;"Thermique renouvelable et déchets";0,3618
+2009-11;"Thermique renouvelable et déchets";0,3618
+2009-12;"Thermique renouvelable et déchets";0,3618
+2010-01;"Thermique renouvelable et déchets";0,422
+2010-02;"Thermique renouvelable et déchets";0,386
+2010-03;"Thermique renouvelable et déchets";0,429
+2010-04;"Thermique renouvelable et déchets";0,37
+2010-05;"Thermique renouvelable et déchets";0,408
+2010-06;"Thermique renouvelable et déchets";0,377
+2010-07;"Thermique renouvelable et déchets";0,4
+2010-08;"Thermique renouvelable et déchets";0,421
+2010-09;"Thermique renouvelable et déchets";0,359
+2010-10;"Thermique renouvelable et déchets";0,361
+2010-11;"Thermique renouvelable et déchets";0,457
+2010-12;"Thermique renouvelable et déchets";0,462
+2011-01;"Thermique renouvelable et déchets";0,477
+2011-02;"Thermique renouvelable et déchets";0,433
+2011-03;"Thermique renouvelable et déchets";0,51
+2011-04;"Thermique renouvelable et déchets";0,413
+2011-05;"Thermique renouvelable et déchets";0,426
+2011-06;"Thermique renouvelable et déchets";0,421
+2011-07;"Thermique renouvelable et déchets";0,485
+2011-08;"Thermique renouvelable et déchets";0,481
+2011-09;"Thermique renouvelable et déchets";0,418
+2011-10;"Thermique renouvelable et déchets";0,404
+2011-11;"Thermique renouvelable et déchets";0,487
+2011-12;"Thermique renouvelable et déchets";0,509
+2012-01;"Thermique renouvelable et déchets";0,514
+2012-02;"Thermique renouvelable et déchets";0,453
+2012-03;"Thermique renouvelable et déchets";0,532
+2012-04;"Thermique renouvelable et déchets";0,405
+2012-05;"Thermique renouvelable et déchets";0,468
+2012-06;"Thermique renouvelable et déchets";0,437
+2012-07;"Thermique renouvelable et déchets";0,514
+2012-08;"Thermique renouvelable et déchets";0,486
+2012-09;"Thermique renouvelable et déchets";0,47
+2012-10;"Thermique renouvelable et déchets";0,45
+2012-11;"Thermique renouvelable et déchets";0,514
+2012-12;"Thermique renouvelable et déchets";0,525
+2013-01;"Thermique renouvelable et déchets";0,654138951
+2013-02;"Thermique renouvelable et déchets";0,595340774
+2013-03;"Thermique renouvelable et déchets";0,642299727
+2013-04;"Thermique renouvelable et déchets";0,469134032
+2013-05;"Thermique renouvelable et déchets";0,537286852
+2013-06;"Thermique renouvelable et déchets";0,508404237
+2013-07;"Thermique renouvelable et déchets";0,576837077
+2013-08;"Thermique renouvelable et déchets";0,584230247
+2013-09;"Thermique renouvelable et déchets";0,524964301
+2013-10;"Thermique renouvelable et déchets";0,607094095
+2013-11;"Thermique renouvelable et déchets";0,663212903
+2013-12;"Thermique renouvelable et déchets";0,680425625
+2014-01;"Thermique renouvelable et déchets";0,62317750476
+2014-02;"Thermique renouvelable et déchets";0,571703454394
+2014-03;"Thermique renouvelable et déchets";0,617816473595
+2014-04;"Thermique renouvelable et déchets";0,532218103217
+2014-05;"Thermique renouvelable et déchets";0,607583116075
+2014-06;"Thermique renouvelable et déchets";0,531292348289
+2014-07;"Thermique renouvelable et déchets";0,596770141244
+2014-08;"Thermique renouvelable et déchets";0,588904145109
+2014-09;"Thermique renouvelable et déchets";0,54681935572
+2014-10;"Thermique renouvelable et déchets";0,562182227613
+2014-11;"Thermique renouvelable et déchets";0,646019676643
+2014-12;"Thermique renouvelable et déchets";0,670007762376
+2015-01;"Thermique renouvelable et déchets";0,671880527741
+2015-02;"Thermique renouvelable et déchets";0,617985990029
+2015-03;"Thermique renouvelable et déchets";0,676755198209
+2015-04;"Thermique renouvelable et déchets";0,571243585832
+2015-05;"Thermique renouvelable et déchets";0,625299532673
+2015-06;"Thermique renouvelable et déchets";0,587373750828
+2015-07;"Thermique renouvelable et déchets";0,64228931539
+2015-08;"Thermique renouvelable et déchets";0,655699488697
+2015-09;"Thermique renouvelable et déchets";0,630032062652
+2015-10;"Thermique renouvelable et déchets";0,613532084185
+2015-11;"Thermique renouvelable et déchets";0,699571102105
+2015-12;"Thermique renouvelable et déchets";0,732330738628
+2016-01;"Thermique renouvelable et déchets";0,756720545339
+2016-02;"Thermique renouvelable et déchets";0,70423848651
+2016-03;"Thermique renouvelable et déchets";0,754648901005
+2016-04;"Thermique renouvelable et déchets";0,678449288401
+2016-05;"Thermique renouvelable et déchets";0,707379474526
+2016-06;"Thermique renouvelable et déchets";0,64421161937
+2016-07;"Thermique renouvelable et déchets";0,742567222168
+2016-08;"Thermique renouvelable et déchets";0,719655377471
+2016-09;"Thermique renouvelable et déchets";0,674823312338
+2016-10;"Thermique renouvelable et déchets";0,667293653501
+2016-11;"Thermique renouvelable et déchets";0,767660643912
+2016-12;"Thermique renouvelable et déchets";0,80163016314
+2017-01;"Thermique renouvelable et déchets";0,811097487534
+2017-02;"Thermique renouvelable et déchets";0,720034625213
+2017-03;"Thermique renouvelable et déchets";0,775923466528
+2017-04;"Thermique renouvelable et déchets";0,728119366262
+2017-05;"Thermique renouvelable et déchets";0,73578900897
+2017-06;"Thermique renouvelable et déchets";0,751845510517
+2017-07;"Thermique renouvelable et déchets";0,814755078275
+2017-08;"Thermique renouvelable et déchets";0,782920786109
+2017-09;"Thermique renouvelable et déchets";0,762142295582
+2017-10;"Thermique renouvelable et déchets";0,759278088197
+2017-11;"Thermique renouvelable et déchets";0,851864742896
+2017-12;"Thermique renouvelable et déchets";0,830558563334
+2018-01;"Thermique renouvelable et déchets";0,785421968676
+2018-02;"Thermique renouvelable et déchets";0,760034977669
+2018-03;"Thermique renouvelable et déchets";0,789498431756
+2018-04;"Thermique renouvelable et déchets";0,792229676175
+2018-05;"Thermique renouvelable et déchets";0,81394350724
+2018-06;"Thermique renouvelable et déchets";0,728608114149
+2018-07;"Thermique renouvelable et déchets";0,817148619188
+2018-08;"Thermique renouvelable et déchets";0,807386442496
+2018-09;"Thermique renouvelable et déchets";0,801235639723
+2018-10;"Thermique renouvelable et déchets";0,767413681777
+2018-11;"Thermique renouvelable et déchets";0,785053427479
+2018-12;"Thermique renouvelable et déchets";0,832775414663
+2019-01;"Thermique renouvelable et déchets";0,826128890534
+2019-02;"Thermique renouvelable et déchets";0,75797891029
+2019-03;"Thermique renouvelable et déchets";0,842881565073
+2019-04;"Thermique renouvelable et déchets";0,747049770562
+2019-05;"Thermique renouvelable et déchets";0,814589201241
+2019-06;"Thermique renouvelable et déchets";0,718302795493
+2019-07;"Thermique renouvelable et déchets";0,771851169406
+2019-08;"Thermique renouvelable et déchets";0,86836446274
+2019-09;"Thermique renouvelable et déchets";0,761883277792
+2019-10;"Thermique renouvelable et déchets";0,754992010214
+2019-11;"Thermique renouvelable et déchets";0,793164612379
+2019-12;"Thermique renouvelable et déchets";0,827177133765
+2020-01;"Thermique renouvelable et déchets";0,830430510929
+2020-02;"Thermique renouvelable et déchets";0,782522176859
+2020-03;"Thermique renouvelable et déchets";0,850400939439
+2020-04;"Thermique renouvelable et déchets";0,815162803326
+2020-05;"Thermique renouvelable et déchets";0,832140097164
+2020-06;"Thermique renouvelable et déchets";0,795378381301
+2020-07;"Thermique renouvelable et déchets";0,831141429858
+2020-08;"Thermique renouvelable et déchets";0,805959221461
+2020-09;"Thermique renouvelable et déchets";0,754964717603
+2020-10;"Thermique renouvelable et déchets";0,742986919185
+2020-11;"Thermique renouvelable et déchets";0,771044856349
+2020-12;"Thermique renouvelable et déchets";0,815864120472
+2021-01;"Thermique renouvelable et déchets";0,839268609859
+2021-02;"Thermique renouvelable et déchets";0,767899303797
+2021-03;"Thermique renouvelable et déchets";0,850965679781
+2021-04;"Thermique renouvelable et déchets";0,791456069898
+2021-05;"Thermique renouvelable et déchets";0,84027181123
+2021-06;"Thermique renouvelable et déchets";0,781389064498
+2021-07;"Thermique renouvelable et déchets";0,904749288788
+2021-08;"Thermique renouvelable et déchets";0,862095928037
+2021-09;"Thermique renouvelable et déchets";0,81431216855
+2021-10;"Thermique renouvelable et déchets";0,833219344861
+2021-11;"Thermique renouvelable et déchets";0,836372841383
+2021-12;"Thermique renouvelable et déchets";0,85734557984
+2022-01;"Thermique renouvelable et déchets";0,876530951935
+2022-02;"Thermique renouvelable et déchets";0,855652780243
+2022-03;"Thermique renouvelable et déchets";0,929478285359
+2022-04;"Thermique renouvelable et déchets";0,858299271849
+2022-05;"Thermique renouvelable et déchets";0,963917276662
+2022-06;"Thermique renouvelable et déchets";0,841658403655
+2022-07;"Thermique renouvelable et déchets";0,885948236117
+2022-08;"Thermique renouvelable et déchets";0,859076997076
+2022-09;"Thermique renouvelable et déchets";0,882213510215
+2022-10;"Thermique renouvelable et déchets";0,831126417278
+2022-11;"Thermique renouvelable et déchets";0,856226472673
+2022-12;"Thermique renouvelable et déchets";0,906967310601
+2023-01;"Thermique renouvelable et déchets";0,87616476215
+2023-02;"Thermique renouvelable et déchets";0,807234318864
+2023-03;"Thermique renouvelable et déchets";0,869129241425
+2023-04;"Thermique renouvelable et déchets";0,849519517022
+2023-05;"Thermique renouvelable et déchets";0,922249885828
+2023-06;"Thermique renouvelable et déchets";0,820512589386
+2023-07;"Thermique renouvelable et déchets";0,911371438784
+2023-08;"Thermique renouvelable et déchets";0,890933813061
+2023-09;"Thermique renouvelable et déchets";0,830865798098
+2023-10;"Thermique renouvelable et déchets";0,826780180526
+2023-11;"Thermique renouvelable et déchets";0,836603607483
+2023-12;"Thermique renouvelable et déchets";0,910164801424
+2024-01;"Thermique renouvelable et déchets";0,873518301223
+2024-02;"Thermique renouvelable et déchets";0,858479751803
+2024-03;"Thermique renouvelable et déchets";0,58404975
+1995-01;"Production totale";48,32
+1995-02;"Production totale";39,49
+1995-03;"Production totale";44,41
+1995-04;"Production totale";38,4
+1995-05;"Production totale";36,53
+1995-06;"Production totale";35,27
+1995-07;"Production totale";35,98
+1995-08;"Production totale";34,21
+1995-09;"Production totale";35,45
+1995-10;"Production totale";37,35
+1995-11;"Production totale";41,81
+1995-12;"Production totale";44,15
+1996-01;"Production totale";47,75
+1996-02;"Production totale";45,87
+1996-03;"Production totale";44,59
+1996-04;"Production totale";39,58
+1996-05;"Production totale";37,73
+1996-06;"Production totale";35,21
+1996-07;"Production totale";36,66
+1996-08;"Production totale";33,79
+1996-09;"Production totale";36,25
+1996-10;"Production totale";40,84
+1996-11;"Production totale";43,56
+1996-12;"Production totale";47,99
+1997-01;"Production totale";49,59
+1997-02;"Production totale";41,36
+1997-03;"Production totale";40,28
+1997-04;"Production totale";39,84
+1997-05;"Production totale";36,94
+1997-06;"Production totale";35,61
+1997-07;"Production totale";36,83
+1997-08;"Production totale";34,63
+1997-09;"Production totale";35,96
+1997-10;"Production totale";41,12
+1997-11;"Production totale";42,49
+1997-12;"Production totale";46,31
+1998-01;"Production totale";48,66
+1998-02;"Production totale";43,12
+1998-03;"Production totale";44,82
+1998-04;"Production totale";41,53
+1998-05;"Production totale";37,81
+1998-06;"Production totale";36,43
+1998-07;"Production totale";35,98
+1998-08;"Production totale";30,74
+1998-09;"Production totale";34,6
+1998-10;"Production totale";41
+1998-11;"Production totale";44,66
+1998-12;"Production totale";47,62
+1999-01;"Production totale";47,46
+1999-02;"Production totale";44,55
+1999-03;"Production totale";44,47
+1999-04;"Production totale";41,45
+1999-05;"Production totale";37,24
+1999-06;"Production totale";36,53
+1999-07;"Production totale";38,26
+1999-08;"Production totale";35,63
+1999-09;"Production totale";37,72
+1999-10;"Production totale";41,99
+1999-11;"Production totale";45,65
+1999-12;"Production totale";49,35
+2000-01;"Production totale";50,13
+2000-02;"Production totale";45,88
+2000-03;"Production totale";46,86
+2000-04;"Production totale";42,8
+2000-05;"Production totale";39,85
+2000-06;"Production totale";38,05
+2000-07;"Production totale";38,75
+2000-08;"Production totale";37,1
+2000-09;"Production totale";38,41
+2000-10;"Production totale";42,83
+2000-11;"Production totale";47,28
+2000-12;"Production totale";48,75
+2001-01;"Production totale";51,48
+2001-02;"Production totale";44,68
+2001-03;"Production totale";46,63
+2001-04;"Production totale";42,85
+2001-05;"Production totale";39,84
+2001-06;"Production totale";37,95
+2001-07;"Production totale";39,59
+2001-08;"Production totale";37,06
+2001-09;"Production totale";39,31
+2001-10;"Production totale";43,55
+2001-11;"Production totale";48,88
+2001-12;"Production totale";52,22
+2002-01;"Production totale";52,86
+2002-02;"Production totale";45,42
+2002-03;"Production totale";47,49
+2002-04;"Production totale";43,9
+2002-05;"Production totale";42,51
+2002-06;"Production totale";39,84
+2002-07;"Production totale";40,37
+2002-08;"Production totale";37,06
+2002-09;"Production totale";40,02
+2002-10;"Production totale";44,82
+2002-11;"Production totale";48,3
+2002-12;"Production totale";52,94
+2003-01;"Production totale";56,25
+2003-02;"Production totale";50,85
+2003-03;"Production totale";48,35
+2003-04;"Production totale";43,62
+2003-05;"Production totale";40,89
+2003-06;"Production totale";39,11
+2003-07;"Production totale";40,29
+2003-08;"Production totale";36,84
+2003-09;"Production totale";38,49
+2003-10;"Production totale";44,99
+2003-11;"Production totale";48,62
+2003-12;"Production totale";53,81
+2004-01;"Production totale";55,46
+2004-02;"Production totale";49,03
+2004-03;"Production totale";50,1
+2004-04;"Production totale";43,9
+2004-05;"Production totale";41,78
+2004-06;"Production totale";39,81
+2004-07;"Production totale";40
+2004-08;"Production totale";37,67
+2004-09;"Production totale";40,23
+2004-10;"Production totale";45,42
+2004-11;"Production totale";49,94
+2004-12;"Production totale";55,38
+2005-01;"Production totale";54,63
+2005-02;"Production totale";49,67
+2005-03;"Production totale";49,78
+2005-04;"Production totale";43,71
+2005-05;"Production totale";42,6
+2005-06;"Production totale";41,04
+2005-07;"Production totale";39,88
+2005-08;"Production totale";39,12
+2005-09;"Production totale";40,73
+2005-10;"Production totale";43,56
+2005-11;"Production totale";49,91
+2005-12;"Production totale";55,5
+2006-01;"Production totale";55,97
+2006-02;"Production totale";48,18
+2006-03;"Production totale";50,15
+2006-04;"Production totale";45,27
+2006-05;"Production totale";42,64
+2006-06;"Production totale";40,49
+2006-07;"Production totale";40,48
+2006-08;"Production totale";39,02
+2006-09;"Production totale";41,29
+2006-10;"Production totale";44,3
+2006-11;"Production totale";48,25
+2006-12;"Production totale";53,06
+2007-01;"Production totale";53,5
+2007-02;"Production totale";48,24
+2007-03;"Production totale";50,5
+2007-04;"Production totale";41,14
+2007-05;"Production totale";41,35
+2007-06;"Production totale";41,12
+2007-07;"Production totale";41,2
+2007-08;"Production totale";40,37
+2007-09;"Production totale";40,79
+2007-10;"Production totale";45,62
+2007-11;"Production totale";47,47
+2007-12;"Production totale";53,49
+2008-01;"Production totale";54,92
+2008-02;"Production totale";50,25
+2008-03;"Production totale";50,19
+2008-04;"Production totale";45,95
+2008-05;"Production totale";41,72
+2008-06;"Production totale";40,33
+2008-07;"Production totale";41,03
+2008-08;"Production totale";38,74
+2008-09;"Production totale";39,95
+2008-10;"Production totale";42,9
+2008-11;"Production totale";48,24
+2008-12;"Production totale";54,95
+2009-01;"Production totale";58,13
+2009-02;"Production totale";50,56
+2009-03;"Production totale";49,43
+2009-04;"Production totale";40,88
+2009-05;"Production totale";39,66
+2009-06;"Production totale";36,3
+2009-07;"Production totale";37,09
+2009-08;"Production totale";35,38
+2009-09;"Production totale";36,19
+2009-10;"Production totale";39,78
+2009-11;"Production totale";43,56
+2009-12;"Production totale";52,19
+2010-01;"Production totale";56,54
+2010-02;"Production totale";50,41
+2010-03;"Production totale";51,07
+2010-04;"Production totale";41,69
+2010-05;"Production totale";39,85
+2010-06;"Production totale";40,22
+2010-07;"Production totale";41,06
+2010-08;"Production totale";39,5
+2010-09;"Production totale";39,22
+2010-10;"Production totale";42,12
+2010-11;"Production totale";49,44
+2010-12;"Production totale";58,97
+2011-01;"Production totale";58,23
+2011-02;"Production totale";50,39
+2011-03;"Production totale";50,7
+2011-04;"Production totale";41,03
+2011-05;"Production totale";41,07
+2011-06;"Production totale";40,35
+2011-07;"Production totale";40,91
+2011-08;"Production totale";38,5
+2011-09;"Production totale";38,97
+2011-10;"Production totale";42,44
+2011-11;"Production totale";46,27
+2011-12;"Production totale";53,65
+2012-01;"Production totale";57,18
+2012-02;"Production totale";54,42
+2012-03;"Production totale";48,59
+2012-04;"Production totale";44,19
+2012-05;"Production totale";40,43
+2012-06;"Production totale";37,52
+2012-07;"Production totale";37,91
+2012-08;"Production totale";36,34
+2012-09;"Production totale";38,03
+2012-10;"Production totale";42,99
+2012-11;"Production totale";49,23
+2012-12;"Production totale";54,72
+2013-01;"Production totale";57,74
+2013-02;"Production totale";52,26
+2013-03;"Production totale";51,88
+2013-04;"Production totale";44,12
+2013-05;"Production totale";43,38
+2013-06;"Production totale";39,34
+2013-07;"Production totale";40,85
+2013-08;"Production totale";38,43
+2013-09;"Production totale";38,6
+2013-10;"Production totale";41,76
+2013-11;"Production totale";48,53
+2013-12;"Production totale";53,57
+2014-01;"Production totale";55,74
+2014-02;"Production totale";49,34
+2014-03;"Production totale";48,04
+2014-04;"Production totale";40,58
+2014-05;"Production totale";41,65
+2014-06;"Production totale";39,15
+2014-07;"Production totale";42,51
+2014-08;"Production totale";39,22
+2014-09;"Production totale";38,99
+2014-10;"Production totale";41,16
+2014-11;"Production totale";46,93
+2014-12;"Production totale";54,53
+2015-01;"Production totale";58,1
+2015-02;"Production totale";51,97
+2015-03;"Production totale";50,5
+2015-04;"Production totale";41,35
+2015-05;"Production totale";40,48
+2015-06;"Production totale";39,76
+2015-07;"Production totale";41,54
+2015-08;"Production totale";38,81
+2015-09;"Production totale";38,93
+2015-10;"Production totale";44,38
+2015-11;"Production totale";47,38
+2015-12;"Production totale";51,59
+2016-01;"Production totale";55,9
+2016-02;"Production totale";51,9
+2016-03;"Production totale";51,96
+2016-04;"Production totale";43,1
+2016-05;"Production totale";40,58
+2016-06;"Production totale";39,96
+2016-07;"Production totale";38,38
+2016-08;"Production totale";35,98
+2016-09;"Production totale";36,38
+2016-10;"Production totale";39,87
+2016-11;"Production totale";45,43
+2016-12;"Production totale";51,16
+2017-01;"Production totale";57,15
+2017-02;"Production totale";47,96
+2017-03;"Production totale";49,69
+2017-04;"Production totale";42,48
+2017-05;"Production totale";41,47
+2017-06;"Production totale";37,29
+2017-07;"Production totale";38,83
+2017-08;"Production totale";37,1
+2017-09;"Production totale";38,59
+2017-10;"Production totale";39,63
+2017-11;"Production totale";44,89
+2017-12;"Production totale";53,21
+2018-01;"Production totale";56,64
+2018-02;"Production totale";53,64
+2018-03;"Production totale";52,36
+2018-04;"Production totale";42,66
+2018-05;"Production totale";42,65
+2018-06;"Production totale";40,65
+2018-07;"Production totale";41,19
+2018-08;"Production totale";37,19
+2018-09;"Production totale";38,81
+2018-10;"Production totale";42,27
+2018-11;"Production totale";46,23
+2018-12;"Production totale";53,28
+2019-01;"Production totale";55,82
+2019-02;"Production totale";50,11
+2019-03;"Production totale";50,35
+2019-04;"Production totale";42,64
+2019-05;"Production totale";43,57
+2019-06;"Production totale";40,11
+2019-07;"Production totale";40,48
+2019-08;"Production totale";37,56
+2019-09;"Production totale";37,52
+2019-10;"Production totale";41,03
+2019-11;"Production totale";45,8
+2019-12;"Production totale";51,1
+2020-01;"Production totale";54,61
+2020-02;"Production totale";50,67
+2020-03;"Production totale";47,93
+2020-04;"Production totale";36,83
+2020-05;"Production totale";37,64
+2020-06;"Production totale";34,48
+2020-07;"Production totale";34,47
+2020-08;"Production totale";33,54
+2020-09;"Production totale";32,16
+2020-10;"Production totale";41,72
+2020-11;"Production totale";45,1
+2020-12;"Production totale";50,62
+2021-01;"Production totale";55,38
+2021-02;"Production totale";46,91
+2021-03;"Production totale";47,52
+2021-04;"Production totale";39,51
+2021-05;"Production totale";41,38
+2021-06;"Production totale";39,21
+2021-07;"Production totale";40,51
+2021-08;"Production totale";39,14
+2021-09;"Production totale";38,48
+2021-10;"Production totale";41,77
+2021-11;"Production totale";44,35
+2021-12;"Production totale";48,32
+2022-01;"Production totale";52,17
+2022-02;"Production totale";45,65
+2022-03;"Production totale";42,53
+2022-04;"Production totale";36,53
+2022-05;"Production totale";33,9
+2022-06;"Production totale";31,64
+2022-07;"Production totale";30,84
+2022-08;"Production totale";29,05
+2022-09;"Production totale";28,95
+2022-10;"Production totale";32,77
+2022-11;"Production totale";36,75
+2022-12;"Production totale";44,98
+2023-01;"Production totale";48,97
+2023-02;"Production totale";43,21
+2023-03;"Production totale";42,62
+2023-04;"Production totale";38,52
+2023-05;"Production totale";39,1
+2023-06;"Production totale";36,05
+2023-07;"Production totale";36,93
+2023-08;"Production totale";35,67
+2023-09;"Production totale";37,14
+2023-10;"Production totale";40,27
+2023-11;"Production totale";45,43
+2023-12;"Production totale";50,75
+2024-01;"Production totale";55,15
+2024-02;"Production totale";47,71
+2024-03;"Production totale";46,32

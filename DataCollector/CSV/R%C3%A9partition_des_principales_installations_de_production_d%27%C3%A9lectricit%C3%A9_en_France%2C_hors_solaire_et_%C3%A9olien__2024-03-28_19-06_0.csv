@@ -1,0 +1,145 @@
+﻿Département;Longitude;Latitude;Filière;Valeur (MW)
+"Saint-Vulbas";5.2703966569;45.8224040812;"Nucléaire";4490
+"Cruas";4.7560959576;44.6564908364;"Nucléaire";4575
+"Chooz";4.8010013611;50.0895252636;"Nucléaire";4500
+"Nogent-sur-Seine";3.4996833620;48.4964871000;"Nucléaire";3930
+"Belleville-sur-Loire";2.8455865881;47.5014995475;"Nucléaire";3930
+"Pierrelatte";4.6872526312;44.3608347991;"Nucléaire";3660
+"Saint-Paul-Trois-Châteaux";4.7576498799;44.3483634801;"Nucléaire";915
+"Braud-et-Saint-Louis";-0.6479243834;45.2547906711;"Nucléaire";4550
+"Avoine";0.1871666605;47.2240922277;"Nucléaire";4525
+"Saint-Maurice-l’Exil";4.7771548434;45.3923808744;"Nucléaire";4005
+"Saint-Laurent-Nouan";1.6252952426;47.7095295169;"Nucléaire";2745
+"Dampierre-en-Burly";2.5426933199;47.7613811308;"Nucléaire";4450
+"Flamanville";-1.8685063573;49.5305754872;"Nucléaire";3990
+"Cattenom";6.2352826328;49.4155395149;"Nucléaire";5200
+"Basse-Ham";6.2376817118;49.3760503984;"Nucléaire";1300
+"Gravelines";2.1437520929;50.9982257040;"Nucléaire";6370
+"Paluel";0.6307476392;49.8440378152;"Nucléaire";6650
+"Petit-Caux";1.2547813303;49.9551418213;"Nucléaire";3990
+"Golfech";0.8575333659;44.1101485755;"Nucléaire";3930
+"Civaux";0.6681979094;46.4423657643;"Nucléaire";4485
+"Bayet";3.2764435862;46.2577987987;"Thermique fossile";884
+"Berre-l’Étang";5.1604032734;43.5035648324;"Thermique fossile";61,3
+"Fos-sur-Mer";4.9041572463;43.4560940539;"Thermique fossile";1727
+"Martigues";5.0495741392;43.3797654978;"Thermique fossile";1058
+"Rognac";5.2311663191;43.4969697117;"Thermique fossile";61,3
+"Le Lardin-Saint-Lazare";1.2321812587;45.1362174229;"Thermique fossile";192,9
+"Brennilis";-3.8509043766;48.3599082290;"Thermique fossile";309
+"Dirinon";-4.2692113377;48.4008511813;"Thermique fossile";184
+"Landivisiau";-4.0607839981;48.5164024887;"Thermique fossile";446
+"Le Pont-de-Claix";5.7017677190;45.1259196710;"Thermique fossile";156
+"Abergement-la-Ronce";5.3777138262;47.0647949610;"Thermique fossile";352,5
+"Cordemais";-1.8353465400;47.2972826874;"Thermique fossile";1740
+"Montoir-de-Bretagne";-2.1456744351;47.3189943302;"Thermique fossile";892
+"Blenod-lès-Pont-à-Mousson";6.0627840843;48.8751622626;"Thermique fossile";450,5
+"Laneuveville-devant-Nancy";6.2414062325;48.6461423611;"Thermique fossile";96
+"Toul";5.8946992491;48.6866340311;"Thermique fossile";440
+"Saint-Avold";6.7121797478;49.1282760281;"Thermique fossile";1901,7
+"Bouchain";3.3118604375;50.2814095003;"Thermique fossile";1126
+"Grande-Synthe";2.2906724098;51.0168196330;"Thermique fossile";1631,6
+"Merville";2.6356364391;50.6453874653;"Thermique fossile";80
+"Pont-sur-Sambre";3.8457003263;50.2314469518;"Thermique fossile";450
+"Lacq";-0.6120838222;43.4216324156;"Thermique fossile";187,98
+"Gonfreville-l’Orcher";0.2217567388;49.4865408072;"Thermique fossile";250
+"Saint-Étienne-du-Rouvray";1.0896115427;49.3816170749;"Thermique fossile";100
+"Vaires-sur-Marne";2.6354886269;48.8698143291;"Thermique fossile";800
+"Vernou-la-Celle-sur-Seine";2.8538738085;48.4063071211;"Thermique fossile";600
+"Gennevilliers";2.2939483663;48.9345503278;"Thermique fossile";203,3
+"Saint-Ouen-sur-Seine";2.3334793648;48.9095887301;"Thermique fossile";120
+"Vitry-sur-Seine";2.3945161747;48.7881178840;"Thermique fossile";475
+"Gardanne";5.4801117571;43.4528943896;"Thermique renouvelable et déchets";150
+"Étagnac";0.7835648146;45.8906063202;"Thermique renouvelable et déchets";110,5
+"Biganos";-0.9491636466;44.6609502098;"Thermique renouvelable et déchets";151
+"Ivry-sur-Seine";2.3877095703;48.8122879737;"Thermique renouvelable et déchets";110
+"Anglefort";5.7950567074;45.9090917511;"Hydraulique";91,6
+"Bregnier-Cordon";5.6168075827;45.6413179411;"Hydraulique";70,4
+"Injoux-Genissiat";5.7595974374;46.0498820202;"Hydraulique";405
+"Virignin";5.7130597971;45.7267770766;"Hydraulique";90,8
+"Ubaye-Serre-Ponçon";6.3185915846;44.4414988645;"Hydraulique";370
+"Demandolx";6.5734500140;43.8698645521;"Hydraulique";51
+"Oraison";5.9248094507;43.9112735846;"Hydraulique";187
+"Sainte-Croix-du-Verdon";6.1517699517;43.7643071999;"Hydraulique";132,27
+"Salignac";5.9886621496;44.1578601541;"Hydraulique";78
+"Sisteron";5.9304918092;44.2008245139;"Hydraulique";214
+"Venterol";6.0872283873;44.4425517449;"Hydraulique";139
+"Saint-Martin-Vesubie";7.3027784904;44.1021786638;"Hydraulique";52,1
+"Beauchastel";4.7976458950;44.8297983932;"Hydraulique";222,8
+"Montpezat-sous-Bauzon";4.1967222200;44.7164336865;"Hydraulique";131,8
+"Les Mazures";4.6312860414;49.8970079917;"Hydraulique";1010
+"Aston";1.6593538518;42.6810454832;"Hydraulique";104
+"Auzat";1.4430937045;42.7020748478;"Hydraulique";54,86
+"L’Hospitalet-près-l’Andorre";1.7772785689;42.5954850707;"Hydraulique";93,3
+"Orlu";1.9368073737;42.6582204412;"Hydraulique";88,8
+"Sainte-Colombe-sur-Guette";2.2489030901;42.7527671076;"Hydraulique";54
+"Brommat";2.7049707780;44.8289378981;"Hydraulique";589
+"Montezic";2.6413137052;44.7168155353;"Hydraulique";910
+"Saint-Hippolyte";2.5842125373;44.7262306868;"Hydraulique";119
+"Le Truel";2.7476319128;44.0538564994;"Hydraulique";446,94
+"Jouques";5.6565507035;43.6332318216;"Hydraulique";71,5
+"Mallemort";5.1835574602;43.7286694758;"Hydraulique";93
+"Saint-Chamas";5.0729446981;43.5438450735;"Hydraulique";159
+"Saint-Estève-Janson";5.3895985897;43.6925424128;"Hydraulique";141
+"Fridefont";3.0953250417;44.9057788360;"Hydraulique";74,1
+"Saint-Étienne-Cantalès";2.2440331449;44.9494261642;"Hydraulique";106,5
+"Saint-Pierre";2.3817169458;45.3956100835;"Hydraulique";120,2
+"Bort-les-Orgues";2.4917912310;45.3933254668;"Hydraulique";232,2
+"Camps-Saint-Mathurin-Leobazel";1.9946691385;44.9924301049;"Hydraulique";95,7
+"Liginiac";2.3236391435;45.4048453710;"Hydraulique";146
+"Saint-Martin-la-Meanne";1.9949302889;45.1713922504;"Hydraulique";293
+"Soursac";2.2034829195;45.2614125090;"Hydraulique";360
+"Bourg-lès-Valence";4.8941015082;44.9650746326;"Hydraulique";186
+"Châteauneuf-du-Rhône";4.7246385081;44.5034806001;"Hydraulique";285
+"Les Tourrettes";4.8019048854;44.6653800807;"Hydraulique";210
+"Gervans";4.8322848490;45.1088952491;"Hydraulique";116
+"Beaucaire";4.5938399501;43.7797368953;"Hydraulique";210
+"Sauveterre";4.8087929755;44.0163597257;"Hydraulique";52
+"Castillon-de-Larboust";0.5579668251;42.7394424659;"Hydraulique";56,23
+"Mons";2.9625662379;43.5696254484;"Hydraulique";95
+"La Richardais";-2.0437149493;48.6092144145;"Hydraulique";240
+"Cuzion";1.6169831926;46.4716918821;"Hydraulique";71,6
+"Auris";6.0838263327;45.0523840315;"Hydraulique";116
+"Le Bourg-d’Oisans";6.0328331756;45.0340611264;"Hydraulique";51,3
+"Le Cheylas";5.9984334474;45.3813670008;"Hydraulique";485
+"Livet-et-Gavet";5.9189192961;45.0905892479;"Hydraulique";93
+"Monteynard";5.7022158655;44.9803501813;"Hydraulique";366
+"Pellafol";5.8804960900;44.7823276528;"Hydraulique";76,5
+"Reventin-Vaugris";4.8440808349;45.4795235629;"Hydraulique";61
+"Sablons";4.7847754994;45.3216053497;"Hydraulique";160,7
+"Saint-Georges-de-Commiers";5.7184907037;45.0360128633;"Hydraulique";60,8
+"Saint-Jean-d’Herans";5.7531414631;44.8546823708;"Hydraulique";101
+"Châtel-en-Trièves";5.8270347139;44.8289273266;"Hydraulique";57,4
+"Vaujany";6.1009880047;45.1861770388;"Hydraulique";1690
+"Cernon";5.6434058066;46.4123144576;"Hydraulique";285
+"Commelle-Vernay";4.0597994053;45.9950346886;"Hydraulique";65,76
+"Pied-de-Borne";3.9681283576;44.4807239821;"Hydraulique";109,4
+"Laruns";-0.4197072844;42.8922609961;"Hydraulique";74
+"Gavarnie-Gèdre";0.0085645811;42.7543264018;"Hydraulique";188,9
+"Sassis";-0.0167886891;42.8764595204;"Hydraulique";74,57
+"Gambsheim";7.8840736566;48.6924670622;"Hydraulique";98
+"Gerstheim";7.7044071571;48.3811019977;"Hydraulique";140,51
+"Marckolsheim";7.5606747729;48.1496432632;"Hydraulique";155
+"Rhinau";7.7043320347;48.3116505807;"Hydraulique";167,0000001
+"Fessenheim";7.5329499583;47.9099378087;"Hydraulique";175
+"Kembs";7.5004910271;47.6797237549;"Hydraulique";151,1
+"Ottmarsheim";7.4930116440;47.7863082384;"Hydraulique";156
+"Vogelgrun";7.5848583299;48.0106561395;"Hydraulique";140,5
+"Saint-Fons";4.8505336115;45.7015220822;"Hydraulique";80,8
+"Grand-Aigueblanche";6.5085429786;45.5118257901;"Hydraulique";384
+"Avrieux";6.7464560080;45.1776847002;"Hydraulique";568,54
+"La Bâthie";6.4740387897;45.6382409230;"Hydraulique";546
+"La Tour-en-Maurienne";6.3740382617;45.3181360502;"Hydraulique";125,4
+"Orelle";6.5604894835;45.1985113642;"Hydraulique";147,68
+"Planay";6.7146431879;45.4229039219;"Hydraulique";66,86
+"Val-d’Arc";6.3219422321;45.5412804682;"Hydraulique";124,19
+"Saint-Andre";6.6159063578;45.2242249090;"Hydraulique";742,26
+"Saint-Michel-de-Maurienne";6.4937564189;45.2384918988;"Hydraulique";145,4
+"Seez";6.8355146459;45.6481857562;"Hydraulique";297
+"Tignes";6.9364079886;45.4815974392;"Hydraulique";96
+"Passy";6.7400211085;45.9541156043;"Hydraulique";104
+"Vallorcine";6.8998835977;46.0256908378;"Hydraulique";190
+"Golfech";0.8575333659;44.1101485755;"Hydraulique";69
+"Avignon";4.8410983556;43.9354413387;"Hydraulique";110
+"Bollène";4.7525127971;44.2880587391;"Hydraulique";345
+"Caderousse";4.7437130992;44.1102884513;"Hydraulique";156
+"Peyrat-le-Château";1.7823412283;45.8082839354;"Hydraulique";63,5
