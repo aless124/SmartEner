@@ -6,9 +6,10 @@ def CreateTable():
     curseur = connexion.cursor()
 
     curseur.execute('''CREATE TABLE IF NOT EXISTS utilisateurs (
-                        id INTEGER PRIMARY KEY,
-                        nom TEXT NOT NULL,
-                        age INTEGER
+                        name TEXT Primary Key NOT NULL,
+                        age INTEGER,
+                        password TEXT NOT NULL,
+                        role TEXT NOT NULL
                         )''')
 
     connexion.commit()

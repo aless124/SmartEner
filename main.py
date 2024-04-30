@@ -1,11 +1,20 @@
 import Lib
 import VariableCommune
-from app.back.Temp import run_app
+import pages.UserConnection as UserConnection
+from app.back.Home import run_app
 from BDD.Creation.CreateTable import CreateTable
+from BDD.Creation.CreateDB import CreateDB
 
 def main():
+    CreateDB()
     CreateTable()
-    run_app()
+    Lib.st.set_page_config(
+        page_title="Home",
+        page_icon=":house:",
+    )
+    Lib.st.sidebar.header("Main Menu")
+
+    Lib.st.write("# Welcome to the Home page! 👋")
     return
 
 if __name__ == "__main__":
