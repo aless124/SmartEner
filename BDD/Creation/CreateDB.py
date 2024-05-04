@@ -1,5 +1,5 @@
-from ...Lib import *
-from ...VariableCommune import *
+from Lib import *
+from VariableCommune import *
 
 def CreateDB():
     connexion = sqlite3.connect(connection)
