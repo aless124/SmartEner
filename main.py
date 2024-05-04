@@ -14,6 +14,9 @@ def main():
     Lib.st.write("# Welcome to the Home page! 👋")
     CreateDB()
     CreateTable()
+
+    Lib.st.write("## Please select an option from the sidebar to get started.")
+    Lib.st.write("You can also create your user account by clicking on the 'Create Account' option.")
     return
 
 if __name__ == "__main__":
