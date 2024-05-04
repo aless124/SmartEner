@@ -33,7 +33,7 @@ def add_user(name, age,password,role):
     conn.close()
 
     # Formulaire pour ajouter un utilisateur
-
+    
 with st.form("user_form"):
         name = st.text_input("Nom")
         age = st.number_input("Age", min_value=0, step=1)
