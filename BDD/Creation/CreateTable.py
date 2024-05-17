@@ -11,6 +11,7 @@ def CreateTable():
                         password TEXT NOT NULL,
                         role TEXT NOT NULL
                         )''')
+    curseur.execute('''INSERT INTO utilisateurs (name, age, password, role) VALUES ('admin', 0, 'admin', 'Admin')''')
 
     connexion.commit()
     connexion.close()
