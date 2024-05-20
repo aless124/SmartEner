@@ -7,7 +7,7 @@ from VariableCommune import connection
 from Lib import *
 
 
-st.set_page_config(page_title="Application de gestion des utilisateurs", page_icon=":smiley:")
+st.set_page_config(page_title="Connection à la page de vision des utilisateurs", page_icon=":smiley:")
 st.markdown("# DataFrame Demo")
 
 def get_db_connection():
