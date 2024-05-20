@@ -36,9 +36,9 @@ Pour ajouter une page , il suffit de créer un fichier python dans le dossier pa
 
 ```python
 import streamlit as st
-def app():
-    st.title("Page 1")
-    st.write("Bienvenue sur la page 1")
+
+st.title("Page 1")
+st.write("Bienvenue sur la page 1")
 ```
 
 
