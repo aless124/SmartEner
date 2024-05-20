@@ -3,3 +3,4 @@ __pycache__
 __init__.py 
 .gitattributes
 BDD\SmartEner.db
+DataCollector/CSV/Isma/distributeurs-denergie-par-commune.csv
