@@ -40,7 +40,6 @@ def add_user(name, age,password,role):
 
 st.title("Page de création d'utilisateur")
 
-# Initialisation des variables de session si elles n'existent pas
 if 'role' not in st.session_state:
     st.session_state['role'] = None
 

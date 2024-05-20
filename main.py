@@ -1,4 +1,4 @@
-import Lib  # Assurez-vous que ce module contient la référence à 'streamlit' as 'st'
+import Lib  
 import VariableCommune
 from app.back.Home import run_app
 from BDD.Creation.CreateTable import CreateTable

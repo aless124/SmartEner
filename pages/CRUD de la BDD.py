@@ -9,7 +9,7 @@ from Lib import *
 import streamlit as st
 import pandas as pd
 import sqlite3
-from VariableCommune import connection  # Ensure this path is correct
+from VariableCommune import connection  
 
 st.set_page_config(page_title="Application de gestion des utilisateurs", page_icon=":smiley:")
 st.markdown("# Application de Gestion des Utilisateurs")
@@ -35,7 +35,7 @@ def delete_user(name):
 def check_role(username, password):
     conn = get_db_connection()
     cursor = conn.cursor()
-    cursor.execute('SELECT role FROM utilisateurs WHERE name = ? AND password = ?', (username, password))  # Safe parameterized query
+    cursor.execute('SELECT role FROM utilisateurs WHERE name = ? AND password = ?', (username, password))  
     result = cursor.fetchone()
     conn.close()
     return result['role'] if result else None
