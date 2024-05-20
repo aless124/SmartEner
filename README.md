@@ -4,7 +4,7 @@ SmartEner est une application développée avec Streamlit et utilise SQLite pour
 
 ## Caractéristiques
 
-- Interface utilisateur intuitive
+- Interface utilisateur intuitive grâce à Streamlit
 - Gestion des données utilisateur via SQLite
 - Visualisation des données énergétiques
 - Prédiction de la production énergétique en France en fonction de l'année
