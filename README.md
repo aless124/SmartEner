@@ -31,6 +31,17 @@ git clone https://github.com/aless124/SmartEner
 pip install -r requirements.txt
 ```
 
+
+Pour ajouter une page , il suffit de créer un fichier python dans le dossier pages et d'ajouter le code suivant :
+
+```python
+import streamlit as st
+def app():
+    st.title("Page 1")
+    st.write("Bienvenue sur la page 1")
+```
+
+
 ## Lancement de l'application
 
 Pour lancer l'application, naviguez dans le dossier du projet et exécutez :
