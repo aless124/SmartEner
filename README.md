@@ -42,6 +42,9 @@ def app():
 ```
 
 
+Le modèle utilisé pour la prédiction est un modèle de régression linéaire. Vous êtes libre de l'entrainer avec vos propres données et de le sauvegarder dans le dossier `Modele`
+
+
 ## Lancement de l'application
 
 Pour lancer l'application, naviguez dans le dossier du projet et exécutez :
