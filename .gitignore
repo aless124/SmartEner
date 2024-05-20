@@ -2,4 +2,4 @@ Data.py
 __pycache__
 __init__.py 
 .gitattributes
-BDD/SmartEner.db
+BDD\SmartEner.db
