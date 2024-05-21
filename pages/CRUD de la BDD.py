@@ -6,11 +6,6 @@ import sqlite3
 from VariableCommune import connection
 from Lib import *
 
-import streamlit as st
-import pandas as pd
-import sqlite3
-from VariableCommune import connection  
-
 st.set_page_config(page_title="Application de gestion des utilisateurs", page_icon=":smiley:")
 st.markdown("# Application de Gestion des Utilisateurs")
 
