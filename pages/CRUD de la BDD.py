@@ -14,9 +14,13 @@ def get_db_connection():
     conn.row_factory = sqlite3.Row
     return conn
 
-def update_user_data(new_name, new_age, new_password, new_role,name):
+def update_user_data(new_name, new_age, new_password, new_role):
     conn = get_db_connection()
-    conn.execute('UPDATE utilisateurs SET name=?, age=?, password=?, role=? WHERE name=?', (new_name, new_age, new_password, new_role,name))
+    print("new_name",new_name)
+    print("new_age",new_age)
+    print("new_password",new_password)
+    print("new_role",new_role)
+    conn.execute('UPDATE utilisateurs SET name=?, age=?, password=?, role=? WHERE name=?', (new_name, new_age, new_password, new_role, new_name))
     conn.commit()
     conn.close()
 
@@ -73,7 +77,7 @@ def admin_page():
         new_role = st.radio("Nouveau rôle", ("Admin", "User", "Guest"))
         update_button = st.form_submit_button("Mettre à jour")
         if update_button:
-            update_user_data(new_name, new_age, new_password, new_role,df['Name'])
+            update_user_data(new_name, new_age, new_password, new_role)
             st.success("Informations de l'utilisateur mises à jour avec succès!")
 
     with st.form("user_form4"):

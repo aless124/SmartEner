@@ -16,7 +16,7 @@ def plot_predictions(year, predictions):
     months = np.arange(1, 13)  # Les mois de janvier à décembre
     plt.figure(figsize=(10, 5))
     plt.plot(months, predictions, marker='o', linestyle='-', color='b')
-    plt.title(f'Predicted Nuclear Power Production for {year}')
+    plt.title(f'Predicted Power Production for {year}')
     plt.xlabel('Month')
     plt.ylabel('Production (TWh)')
     plt.grid(True)
@@ -24,7 +24,7 @@ def plot_predictions(year, predictions):
     plt.ylim(min(predictions) - 0.5, max(predictions) + 0.5) 
     st.pyplot(plt)
 
-st.title("Nuclear Power Production Prediction")
+st.title("Power Production Prediction")
 
 model = load_model()
 
